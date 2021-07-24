@@ -1,4 +1,4 @@
-# Commonsense Knowledge Base Completion with Structural and Semantic Context_image information
+# Commonsense Knowledge Base Completion with Structural and Semantic Context (image information)
 
 <p align="center">
  <img src="figures/completion.png" width="500">
