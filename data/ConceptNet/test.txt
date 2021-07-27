@@ -1,0 +1,4204 @@
+RelatedTo	cloud	white
+RelatedTo	rice	white
+RelatedTo	snow	white
+RelatedTo	cotton	white
+RelatedTo	milk	white
+RelatedTo	paper	white
+RelatedTo	salt	white
+RelatedTo	sugar	white
+RelatedTo	egg	white
+RelatedTo	sheep	white
+HasProperty	milk	white
+RelatedTo	bone	white
+RelatedTo	chicken	white
+RelatedTo	wool	white
+RelatedTo	paste	white
+DefinedAs	white	opposite of black
+RelatedTo	bread	white
+RelatedTo	wine	white
+IsA	bleach	white
+PartOf	white	arkansas
+IsA	chalk	white
+IsA	white	color
+HasProperty	some sheet	white
+IsA	bone	white
+PartOf	white	missouri
+IsA	white	man
+RelatedTo	white	light
+IsA	white	colour
+RelatedTo	light	white
+RelatedTo	color	white
+RelatedTo	napkin	white
+RelatedTo	sand	white
+RelatedTo	silver	white
+RelatedTo	surrender	white
+RelatedTo	doctor	white
+RelatedTo	plate	white
+RelatedTo	chalk	white
+RelatedTo	skunk	white
+RelatedTo	sock	white
+RelatedTo	blue	white
+RelatedTo	page	white
+RelatedTo	dove	white
+RelatedTo	cow	white
+RelatedTo	president	white
+RelatedTo	rabbit	white
+RelatedTo	steam	white
+HasProperty	correction fluid	white
+RelatedTo	white bread	white
+RelatedTo	white	sclera
+RelatedTo	violet	white
+IsA	cue ball	white
+RelatedTo	white lie	white
+RelatedTo	white	enclose
+RelatedTo	white	color
+RelatedTo	white	butt
+RelatedTo	pass	white
+RelatedTo	white	missile
+RelatedTo	white	habit
+RelatedTo	white	whiten
+HasProperty	porcelain	white
+RelatedTo	cyan	white
+RelatedTo	redneck	white
+RelatedTo	fay	white
+RelatedTo	sirius	white
+RelatedTo	pomelo	white
+IsA	cream cheese	white
+RelatedTo	milk	white
+RelatedTo	white	snow
+RelatedTo	blue	white
+RelatedTo	calcium carbonate	white
+RelatedTo	spittle	white
+IsA	white rice	white
+IsA	yogurt	white
+RelatedTo	lily	white
+HasProperty	horse	white
+RelatedTo	white	butterfly
+IsA	cottage cheese	white
+RelatedTo	monochrome	white
+HasProperty	egg	white
+RelatedTo	snow	white
+RelatedTo	paddy	white
+RelatedTo	magnolia	white
+RelatedTo	lilac	white
+IsA	cream cheese	white
+RelatedTo	white	missile
+RelatedTo	pass	white
+RelatedTo	white	tan
+RelatedTo	milk bottle	white
+RelatedTo	white	pigment
+RelatedTo	nazism	white
+IsA	wax	white
+RelatedTo	pink	white
+NotHasProperty	black	white
+RelatedTo	white	bleach
+IsA	milk	white
+RelatedTo	white	colour
+RelatedTo	white	milk
+RelatedTo	white	cocaine
+RelatedTo	white	eye
+RelatedTo	whiten	white
+RelatedTo	yellow	white
+RelatedTo	white	cue
+RelatedTo	w	white
+RelatedTo	magnolia	white
+RelatedTo	lichen	white
+RelatedTo	snapdragon	white
+RelatedTo	blanch	white
+RelatedTo	egg	white
+RelatedTo	white	bird
+RelatedTo	white	letter
+RelatedTo	cue ball	white
+RelatedTo	wheat	white
+RelatedTo	white	wine
+RelatedTo	white	milk
+HasProperty	cauliflower	white
+HasProperty	dandruff	white
+RelatedTo	grey	white
+RelatedTo	pink	white
+RelatedTo	white	contain
+RelatedTo	white	bright
+RelatedTo	white	light
+HasProperty	rice	white
+HasProperty	lab coat	white
+HasProperty	normaly paper	white
+RelatedTo	mistletoe	white
+RelatedTo	white	board game
+RelatedTo	white	mark
+RelatedTo	white	creamer
+HasProperty	most milk that we drink	white
+HasProperty	caucasions	white
+RelatedTo	black	white
+RelatedTo	white	cue ball
+RelatedTo	white	egg
+HasProperty	bread	white
+RelatedTo	cucumber	white
+RelatedTo	white	piece
+RelatedTo	white	colour
+RelatedTo	gray	white
+RelatedTo	apple	white
+RelatedTo	white	color
+RelatedTo	soap	white
+RelatedTo	smoke	white
+RelatedTo	flag	white
+RelatedTo	peace	white
+RelatedTo	white	colour
+IsA	white	colour
+RelatedTo	gray	white
+RelatedTo	piano	white
+RelatedTo	christmas	white
+RelatedTo	bleach	white
+RelatedTo	mist	white
+RelatedTo	tooth	white
+RelatedTo	daisy	white
+RelatedTo	moon	white
+RelatedTo	envelope	white
+RelatedTo	black	white
+RelatedTo	captain	white
+RelatedTo	noise	white
+RelatedTo	poison	white
+RelatedTo	cauliflower	white
+RelatedTo	bear	white
+RelatedTo	lie	white
+RelatedTo	winter	white
+RelatedTo	capital	white
+RelatedTo	lily	white
+RelatedTo	fraud	white
+RelatedTo	powder	white
+RelatedTo	macaroni	white
+RelatedTo	white	snow
+RelatedTo	shark	white
+RelatedTo	wave	white
+RelatedTo	cream	white
+RelatedTo	blood	white
+RelatedTo	dandruff	white
+RelatedTo	lotion	white
+RelatedTo	eye	white
+RelatedTo	cake	white
+RelatedTo	defeat	white
+RelatedTo	mousse	white
+RelatedTo	servant	white
+RelatedTo	duck	white
+RelatedTo	garlic	white
+RelatedTo	diamond	white
+RelatedTo	judge	white
+RelatedTo	seal	white
+RelatedTo	white	cloud
+RelatedTo	thunder	white
+RelatedTo	mimic	white
+RelatedTo	gin	white
+RelatedTo	foam	white
+RelatedTo	cigarette	white
+RelatedTo	water	white
+RelatedTo	board	white
+RelatedTo	heaven	white
+RelatedTo	buy	white
+RelatedTo	tin	white
+RelatedTo	ranch	white
+RelatedTo	linen	white
+RelatedTo	good	white
+RelatedTo	pillow	white
+RelatedTo	column	white
+RelatedTo	frost	white
+RelatedTo	sail	white
+RelatedTo	cell	white
+RelatedTo	gown	white
+RelatedTo	lamb	white
+RelatedTo	pearl	white
+RelatedTo	barnacle	white
+RelatedTo	ice	white
+RelatedTo	card	white
+RelatedTo	temple	white
+RelatedTo	habit	white
+RelatedTo	book	white
+RelatedTo	or	white
+RelatedTo	slip	white
+RelatedTo	enamel	white
+RelatedTo	tusk	white
+AtLocation	your tongue	your mouth
+RelatedTo	lip	mouth
+RelatedTo	taste	mouth
+AtLocation	tooth	your mouth
+RelatedTo	napkin	mouth
+AtLocation	your tounge	your mouth
+RelatedTo	smile	mouth
+RelatedTo	mouth	face
+AtLocation	saliva	your mouth
+RelatedTo	voice	mouth
+RelatedTo	mouth	part
+RelatedTo	jaw	mouth
+UsedFor	your mouth	speak
+AtLocation	grape	my mouth
+AtLocation	denture	your mouth
+AtLocation	lip	mouth
+PartOf	tooth	mouth
+RelatedTo	nose	mouth
+RelatedTo	blow	mouth
+RelatedTo	mouth	organ
+RelatedTo	face	mouth
+RelatedTo	mouth	tongue
+RelatedTo	mouth	body
+RelatedTo	head	mouth
+RelatedTo	talk	mouth
+RelatedTo	mouth	hole
+RelatedTo	tongue	mouth
+AtLocation	spit	your mouth
+AtLocation	food	your mouth
+RelatedTo	mouthwash	mouth
+PartOf	mouth	bottle
+PartOf	mouth	face
+PartOf	tongue	mouth
+IsA	beak	mouth
+PartOf	mouth	jar
+AtLocation	toothbrush	your mouth
+IsA	mouth	eater
+PartOf	mouth	mouth
+AtLocation	germ	your mouth
+IsA	trap	mouth
+PartOf	lip	mouth
+PartOf	tongue	mouth
+RelatedTo	mouth	nose
+RelatedTo	yawn	mouth
+RelatedTo	mouth	body part
+RelatedTo	bill	mouth
+RelatedTo	sneeze	mouth
+RelatedTo	eat	mouth
+IsA	mouth	where you
+RelatedTo	gape	mouth
+AtLocation	taste	your mouth
+RelatedTo	plate	mouth
+RelatedTo	oral	mouth
+AtLocation	toothpaste	your mouth
+HasA	catfish	mouth
+AtLocation	water	your mouth
+RelatedTo	spit	mouth
+AtLocation	drool	your mouth
+RelatedTo	mop	mouth
+CapableOf	mouth	kiss another mouth
+UsedFor	mouth	eat and talk
+RelatedTo	mouth	creature
+AtLocation	harmonica	my mouth
+AtLocation	sound	your mouth
+RelatedTo	snout	mouth
+RelatedTo	wick	mouth
+AtLocation	mouth	river
+RelatedTo	napkin	mouth
+RelatedTo	lip	mouth
+RelatedTo	rosebud	mouth
+RelatedTo	mouth	swallow
+AtLocation	fruit	your mouth
+RelatedTo	mouth	bridle
+HasA	person	mouth
+RelatedTo	mouth	speak
+RelatedTo	mouth	loud
+RelatedTo	mouth	pick up
+IsA	your mouth	not
+AtLocation	roof	mouth
+RelatedTo	chin	mouth
+RelatedTo	tongue	mouth
+AtLocation	cavity	your mouth
+RelatedTo	mouth	chew
+RelatedTo	drool	mouth
+HasA	every person	mouth
+RelatedTo	lip	mouth
+AtLocation	tooth decay	your mouth
+PartOf	mouth	bell
+AtLocation	mouth	head
+RelatedTo	fall down	mouth
+AtLocation	toothpick	mouth
+AtLocation	hamburger	your mouth
+UsedFor	mouth	chew food
+AtLocation	toothpick	mouth
+RelatedTo	dimple	mouth
+AtLocation	gum disease	your mouth
+RelatedTo	trap	mouth
+AtLocation	hard palate	your mouth
+AtLocation	voice	your mouth
+RelatedTo	snorkel	mouth
+RelatedTo	mouth	food
+RelatedTo	eat	mouth
+RelatedTo	swallow	mouth
+RelatedTo	stop	mouth
+RelatedTo	up	mouth
+RelatedTo	oral	mouth
+RelatedTo	bar	mouth
+AtLocation	toothpaste	your mouth
+HasA	catfish	mouth
+UsedFor	mouth	mastication
+LocatedNear	saliva	your mouth
+RelatedTo	front	mouth
+RelatedTo	rapper	mouth
+RelatedTo	yawn	mouth
+PartOf	hard palate	mouth
+IsA	mouth	solid object
+RelatedTo	tooth	mouth
+RelatedTo	mouthpiece	mouth
+AtLocation	moisture	your mouth
+AtLocation	tastebud	your mouth
+RelatedTo	nose	mouth
+RelatedTo	mouth	river
+RelatedTo	yawn	mouth
+AtLocation	chocolate	your mouth
+AtLocation	bridge	mouth
+AtLocation	crab	your mouth
+RelatedTo	mouth	handle
+RelatedTo	face	mouth
+RelatedTo	flask	mouth
+RelatedTo	mouth	speech
+RelatedTo	mouth	bit
+RelatedTo	dry mouth	mouth
+RelatedTo	head	mouth
+RelatedTo	chop	mouth
+PartOf	jaw	mouth
+PartOf	mouth	head
+RelatedTo	gape	mouth
+RelatedTo	jug	mouth
+UsedFor	mouth	kiss
+AtLocation	mouth	human
+AtLocation	mercury	your mouth
+RelatedTo	fork	mouth
+RelatedTo	laugh	mouth
+RelatedTo	tooth	mouth
+RelatedTo	mouth	head
+RelatedTo	cheek	mouth
+RelatedTo	beak	mouth
+RelatedTo	chin	mouth
+RelatedTo	chew	mouth
+RelatedTo	whistle	mouth
+RelatedTo	river	mouth
+RelatedTo	eye	mouth
+RelatedTo	breath	mouth
+RelatedTo	sound	mouth
+RelatedTo	bit	mouth
+RelatedTo	bass	mouth
+RelatedTo	tusk	mouth
+RelatedTo	mouth	taste
+RelatedTo	drink	mouth
+RelatedTo	mouth	smile
+RelatedTo	laugh	mouth
+RelatedTo	mouth	place
+RelatedTo	thermometer	mouth
+RelatedTo	whisker	mouth
+RelatedTo	squirrel	mouth
+RelatedTo	ear	mouth
+RelatedTo	bite	mouth
+RelatedTo	mouth	round
+RelatedTo	enamel	mouth
+RelatedTo	pipe	mouth
+RelatedTo	mouth	party
+RelatedTo	mouth	spit
+RelatedTo	mouth	device
+RelatedTo	mouth	cavity
+RelatedTo	mouth	kiss
+RelatedTo	mouth	sense
+RelatedTo	mouth	inside
+RelatedTo	mouth	chin
+RelatedTo	mouth	speech
+RelatedTo	mouth	eat
+RelatedTo	mouth	eat with
+RelatedTo	cigarette	mouth
+RelatedTo	dry	mouth
+RelatedTo	mouth	open
+RelatedTo	paste	mouth
+RelatedTo	mouth	big
+RelatedTo	bitter	mouth
+RelatedTo	delta	mouth
+RelatedTo	bone	mouth
+RelatedTo	call	mouth
+RelatedTo	mouth	location
+RelatedTo	mouth	pie
+RelatedTo	mouth	entrance
+RelatedTo	mouth	food
+HasPrerequisite	read newspaper	open it
+RelatedTo	door	open
+RelatedTo	wound	open
+HasPrerequisite	read book	open it
+CapableOf	door	open
+RelatedTo	field	open
+HasPrerequisite	read letter	open it
+HasSubevent	read letter	open it
+IsA	open	tournament
+RelatedTo	open	open
+UsedFor	key	open
+Causes	open	open
+IsA	open	area
+Causes	open	open
+HasFirstSubevent	read book	open it
+RelatedTo	space	open
+RelatedTo	market	open
+RelatedTo	open	door
+RelatedTo	gate	open
+RelatedTo	open	enter
+RelatedTo	open	client
+RelatedTo	solid	open
+RelatedTo	plain	open
+RelatedTo	pioneer	open
+RelatedTo	open	customer
+RelatedTo	nightclub	open
+RelatedTo	air	open
+RelatedTo	open	the
+RelatedTo	open	begin
+RelatedTo	open	expand
+RelatedTo	slide	open
+RelatedTo	open	passage
+CapableOf	flower	open
+RelatedTo	pry	open
+RelatedTo	open	make
+IsA	crack	open
+RelatedTo	open	full
+RelatedTo	puzzle box	open
+RelatedTo	convertible	open
+RelatedTo	outdoors	open
+RelatedTo	open	knowledge
+RelatedTo	open	together
+RelatedTo	yawn	open
+RelatedTo	switchblade	open
+MotivatedByGoal	hit bottle	open it
+HasPrerequisite	read magazine	open it
+HasLastSubevent	buy something small	open it
+RelatedTo	transparent	open
+RelatedTo	open	start
+RelatedTo	draw	open
+RelatedTo	yawn	open
+RelatedTo	open	free
+RelatedTo	skeleton key	open
+HasPrerequisite	jump out of window	open it
+RelatedTo	open	view
+RelatedTo	open	memory
+CapableOf	lock	open
+RelatedTo	open	side
+RelatedTo	open	character
+RelatedTo	open	consonant
+HasLastSubevent	hit bottle	open it
+HasSubevent	read newspaper	open it
+RelatedTo	convertible	open
+RelatedTo	steeplechase	open
+RelatedTo	courtyard	open
+RelatedTo	open	enter
+RelatedTo	outdoors	open
+RelatedTo	open	full
+RelatedTo	open	begin
+RelatedTo	gape	open
+RelatedTo	ulcer	open
+MotivatedByGoal	hit bottle	open it
+RelatedTo	open	together
+RelatedTo	open	the
+RelatedTo	plain	open
+RelatedTo	lead	open
+RelatedTo	puzzle box	open
+CapableOf	flower	open
+RelatedTo	open	expand
+RelatedTo	air	open
+RelatedTo	nightclub	open
+RelatedTo	open	customer
+RelatedTo	solid	open
+RelatedTo	open	client
+RelatedTo	spread	open
+RelatedTo	corkscrew	open
+RelatedTo	circus	open
+RelatedTo	open	clear
+RelatedTo	open	spread
+RelatedTo	place	open
+RelatedTo	catch	open
+RelatedTo	hovel	open
+HasFirstSubevent	read letter	open it
+RelatedTo	open	event
+RelatedTo	iris	open
+RelatedTo	pot	open
+RelatedTo	amphitheatre	open
+DefinedAs	open	opposite of shut
+RelatedTo	open	business
+RelatedTo	open	business
+RelatedTo	open	compete
+RelatedTo	shed	open
+RelatedTo	unlock	open
+RelatedTo	windy	open
+RelatedTo	marketplace	open
+RelatedTo	range	open
+RelatedTo	open	adjective
+RelatedTo	window	open
+RelatedTo	cut	open
+RelatedTo	yawn	open
+RelatedTo	operation	open
+RelatedTo	close	open
+RelatedTo	open	action
+RelatedTo	sandal	open
+RelatedTo	box	open
+RelatedTo	open	wide
+RelatedTo	steppe	open
+RelatedTo	bloom	open
+RelatedTo	sky	open
+RelatedTo	handle	open
+RelatedTo	open	but
+RelatedTo	flash	open
+RelatedTo	dress	open
+RelatedTo	look	open
+RelatedTo	area	open
+RelatedTo	crowd	open
+RelatedTo	park	open
+RelatedTo	open	tournament
+RelatedTo	open	golf tournament
+RelatedTo	open	golf
+RelatedTo	mouth	open
+RelatedTo	wink	open
+RelatedTo	open	can
+RelatedTo	free	open
+RelatedTo	key	open
+RelatedTo	country	open
+IsA	pink	color
+IsA	carnation	pink
+IsA	rose	pink
+IsA	coral	pink
+IsA	carnation	pink
+IsA	pink	flower
+RelatedTo	color	pink
+RelatedTo	pink	society
+RelatedTo	pink	carnation
+RelatedTo	pink	fabric
+RelatedTo	pink	snooker
+RelatedTo	pink	perfection
+RelatedTo	pink	minnow
+RelatedTo	pink	criticism
+RelatedTo	carnation	pink
+RelatedTo	claw	pink
+RelatedTo	pink	red
+RelatedTo	pink	stab
+RelatedTo	dark red	pink
+RelatedTo	pink	decorate
+IsA	pink	terrible color for interior decor
+RelatedTo	coral	pink
+RelatedTo	blush	pink
+IsA	carnation	pink
+RelatedTo	pink	wound
+RelatedTo	lilac	pink
+RelatedTo	pink	white
+RelatedTo	pink	ridicule
+RelatedTo	old	pink
+RelatedTo	persian	pink
+RelatedTo	pink	girl
+RelatedTo	pink	irony
+RelatedTo	carnation	pink
+RelatedTo	rose	pink
+RelatedTo	pink	colour
+RelatedTo	pink	white
+RelatedTo	pink	homosexual
+IsA	pink	colour
+RelatedTo	lip	pink
+RelatedTo	red	pink
+RelatedTo	noise	pink
+RelatedTo	rosebud	pink
+RelatedTo	slip	pink
+RelatedTo	muscle	pink
+RelatedTo	carnation	pink
+RelatedTo	worm	pink
+RelatedTo	smell	nose
+RelatedTo	nose	face
+AtLocation	nose	your face
+RelatedTo	sneeze	nose
+RelatedTo	nose	organ
+RelatedTo	nose	smell
+RelatedTo	nose	part
+RelatedTo	eye	nose
+RelatedTo	face	nose
+RelatedTo	nose	body
+RelatedTo	nose	body part
+PartOf	nostril	nose
+AtLocation	nose	middle of your face
+RelatedTo	nose	mouth
+RelatedTo	head	nose
+IsA	nose	front
+PartOf	nose	missile
+IsA	beak	nose
+IsA	snout	nose
+CapableOf	nose	sense smell
+PartOf	bridge	nose
+PartOf	nose	face
+CapableOf	your nose	smell flower
+HasA	dog	nose
+PartOf	nostril	nose
+PartOf	nose	aircraft
+IsA	nose	smell
+IsA	nose	skill
+PartOf	nose	head
+IsA	nose	symbol
+RelatedTo	mouth	nose
+RelatedTo	nose	two
+RelatedTo	nose	middle
+RelatedTo	nose	appendage
+RelatedTo	snort	nose
+RelatedTo	nose	sense
+RelatedTo	ear	nose
+IsA	nose	body part
+RelatedTo	nose	snoop
+RelatedTo	beak	nose
+AtLocation	booger	your nose
+RelatedTo	nose	use
+RelatedTo	nose	bouquet
+RelatedTo	nose	breathe
+IsA	nose	protrusion
+AtLocation	mouth	nose
+RelatedTo	pig	nose
+CapableOf	nose	sniff
+RelatedTo	snout	nose
+UsedFor	nose	face
+PartOf	your nose	your body
+HasA	person	nose
+CapableOf	nose	run
+HasA	face	nose
+RelatedTo	dive	nose
+AtLocation	nose	air
+RelatedTo	trunk	nose
+HasA	elephant	nose
+RelatedTo	nose	defeat
+RelatedTo	nose	face
+RelatedTo	snort	nose
+AtLocation	finger	nose
+RelatedTo	bridge	nose
+RelatedTo	sniff	nose
+RelatedTo	nose	horse
+HasA	cat	nose
+RelatedTo	nose	snout
+HasA	monkey	nose
+RelatedTo	snort	nose
+RelatedTo	sniffle	nose
+RelatedTo	nose	skill
+IsA	trunk	nose
+RelatedTo	nose	push
+RelatedTo	nose	distance
+RelatedTo	frostbite	nose
+RelatedTo	nose	contest
+UsedFor	nose	breathe
+RelatedTo	honk	nose
+RelatedTo	sneeze	nose
+HasA	weasel	nose
+RelatedTo	nose	race
+HasA	zebra	nose
+RelatedTo	nose	breath
+HasA	giraffe	nose
+AtLocation	nose	fase
+RelatedTo	snot	nose
+RelatedTo	proboscis monkey	nose
+RelatedTo	common cold	nose
+RelatedTo	nose	narrow
+RelatedTo	nose	shape
+RelatedTo	boop	nose
+RelatedTo	nose	smell
+RelatedTo	nose	mouth
+RelatedTo	nose	tip
+RelatedTo	nose	smell
+RelatedTo	nose	move
+AtLocation	snot	nose
+RelatedTo	nostril	nose
+AtLocation	fungus	your nose
+RelatedTo	nose	triangle
+RelatedTo	trunk	nose
+RelatedTo	nose	device
+RelatedTo	lip	nose
+RelatedTo	nose	snot
+RelatedTo	clown	nose
+RelatedTo	nose	head
+RelatedTo	nose	center
+RelatedTo	nose	protrusion
+RelatedTo	nose	breath
+RelatedTo	nose	breathe
+RelatedTo	habit	nose
+RelatedTo	breath	nose
+RelatedTo	tap	nose
+RelatedTo	bill	nose
+RelatedTo	nose	out
+RelatedTo	cheek	nose
+RelatedTo	nose	eye
+RelatedTo	nose	beak
+RelatedTo	finger	nose
+RelatedTo	nose	sensory organ
+RelatedTo	nose	sense smell
+RelatedTo	dog	nose
+RelatedTo	nose	front
+RelatedTo	nose	item
+RelatedTo	toe	nose
+RelatedTo	thunder	nose
+RelatedTo	nose	nice
+RelatedTo	bouquet	nose
+RelatedTo	nose	hair
+RelatedTo	doll	nose
+RelatedTo	nose	sensor
+RelatedTo	nose	scent
+RelatedTo	nose	human
+RelatedTo	pore	nose
+RelatedTo	nose	hook
+RelatedTo	whisker	nose
+RelatedTo	horse	nose
+RelatedTo	nose	small
+RelatedTo	nose	skin
+RelatedTo	nose	power
+RelatedTo	nose	thumb
+RelatedTo	beak	nose
+RelatedTo	nose	slope
+RelatedTo	pig	nose
+RelatedTo	nose	pointy
+RelatedTo	nose	use
+RelatedTo	wine	nose
+RelatedTo	taste	nose
+RelatedTo	mole	nose
+RelatedTo	nose	instrument
+RelatedTo	nose	think
+RelatedTo	nose	smelly
+RelatedTo	part	nose
+RelatedTo	blow	nose
+RelatedTo	squirrel	small
+RelatedTo	hill	small
+RelatedTo	flea	small
+RelatedTo	size	small
+RelatedTo	little	small
+RelatedTo	baby	small
+RelatedTo	chick	small
+RelatedTo	atom	small
+RelatedTo	child	small
+RelatedTo	boat	small
+RelatedTo	rabbit	small
+RelatedTo	sand	small
+RelatedTo	note	small
+RelatedTo	doll	small
+HasProperty	needle	small
+RelatedTo	bit	small
+RelatedTo	stick	small
+RelatedTo	cell	small
+RelatedTo	seed	small
+RelatedTo	chicken	small
+RelatedTo	garden	small
+RelatedTo	mole	small
+RelatedTo	sea	small
+RelatedTo	boy	small
+RelatedTo	bullet	small
+RelatedTo	rice	small
+RelatedTo	roll	small
+RelatedTo	stone	small
+RelatedTo	plant	small
+HasProperty	fly	small
+IsA	small	size
+HasProperty	world	small
+IsA	small	body part
+RelatedTo	change	small
+RelatedTo	lake	small
+RelatedTo	cut	small
+RelatedTo	watch	small
+RelatedTo	kitten	small
+RelatedTo	compact	small
+RelatedTo	village	small
+RelatedTo	mist	small
+RelatedTo	fly	small
+RelatedTo	piece	small
+RelatedTo	quail	small
+RelatedTo	coin	small
+RelatedTo	minute	small
+RelatedTo	canary	small
+RelatedTo	step	small
+RelatedTo	battle	small
+RelatedTo	slope	small
+RelatedTo	test	small
+RelatedTo	gravel	small
+RelatedTo	street	small
+RelatedTo	berry	small
+RelatedTo	hobbit	small
+RelatedTo	hovel	small
+RelatedTo	small	insignificant
+RelatedTo	tiny	small
+RelatedTo	muffin	small
+RelatedTo	puny	small
+RelatedTo	scale	small
+RelatedTo	puffin	small
+RelatedTo	gravel	small
+RelatedTo	coin	small
+RelatedTo	outhouse	small
+RelatedTo	small	mean
+RelatedTo	swallow	small
+RelatedTo	mean	small
+RelatedTo	shingle	small
+RelatedTo	elderberry	small
+RelatedTo	small	become
+RelatedTo	small	young
+RelatedTo	spanner	small
+HasProperty	staple	small
+RelatedTo	run around	small
+RelatedTo	hobbit	small
+HasProperty	airline seat	small
+RelatedTo	small	insignificant
+RelatedTo	gravel	small
+RelatedTo	little	small
+RelatedTo	small	mean
+RelatedTo	muffin	small
+RelatedTo	scale	small
+HasProperty	piccolo	small
+RelatedTo	strand	small
+RelatedTo	small	child
+HasProperty	ipod	small
+RelatedTo	atom	small
+RelatedTo	side	small
+HasProperty	doll	small
+HasProperty	thumb tack	small
+RelatedTo	pope	small
+RelatedTo	closet	small
+RelatedTo	squirt	small
+HasProperty	small	narrow
+HasProperty	pocket notebook	small
+RelatedTo	small	number
+RelatedTo	toilet	small
+IsA	we	small
+RelatedTo	loose change	small
+RelatedTo	narrow	small
+RelatedTo	bunsen burner	small
+HasProperty	dust particle	small
+RelatedTo	tine	small
+RelatedTo	ideal	small
+RelatedTo	sit upon	small
+RelatedTo	small	large
+RelatedTo	dribble	small
+HasProperty	coach airplane seat	small
+RelatedTo	bill	small
+HasProperty	cot	small
+RelatedTo	sharp	small
+RelatedTo	jar	small
+HasProperty	short	small
+RelatedTo	small town	small
+RelatedTo	small	letter
+RelatedTo	shih tzu	small
+RelatedTo	box	small
+RelatedTo	bit	small
+HasProperty	toothbrush bristle	small
+RelatedTo	minute	small
+RelatedTo	total	small
+RelatedTo	american	small
+RelatedTo	rotunda	small
+RelatedTo	narrow	small
+RelatedTo	pond	small
+RelatedTo	pea	small
+RelatedTo	branch	small
+RelatedTo	point	small
+RelatedTo	toy	small
+RelatedTo	cat	small
+RelatedTo	egg	small
+RelatedTo	task	small
+RelatedTo	chipmunk	small
+RelatedTo	grape	small
+RelatedTo	stitch	small
+RelatedTo	grain	small
+RelatedTo	pony	small
+RelatedTo	girl	small
+RelatedTo	card	small
+RelatedTo	smile	small
+RelatedTo	wren	small
+RelatedTo	fox	small
+RelatedTo	brook	small
+RelatedTo	hatchet	small
+RelatedTo	microscope	small
+RelatedTo	napkin	small
+RelatedTo	tack	small
+RelatedTo	road	small
+RelatedTo	shrub	small
+RelatedTo	violin	small
+RelatedTo	cherry	small
+RelatedTo	puppy	small
+RelatedTo	cottage	small
+RelatedTo	short	small
+RelatedTo	deer	small
+RelatedTo	bat	small
+RelatedTo	wallet	small
+RelatedTo	shed	small
+RelatedTo	market	small
+RelatedTo	town	small
+RelatedTo	apricot	small
+RelatedTo	lane	small
+RelatedTo	degree	small
+RelatedTo	pup	small
+RelatedTo	crumb	small
+RelatedTo	apartment	small
+RelatedTo	river	small
+RelatedTo	minnow	small
+RelatedTo	mountain	small
+RelatedTo	cross	small
+RelatedTo	rat	small
+RelatedTo	chapel	small
+RelatedTo	hamster	small
+RelatedTo	dog	small
+RelatedTo	canal	small
+RelatedTo	corn	small
+RelatedTo	monkey	small
+RelatedTo	nest	small
+RelatedTo	pig	small
+RelatedTo	small	little
+RelatedTo	college	small
+RelatedTo	company	small
+RelatedTo	fine	small
+RelatedTo	window	small
+RelatedTo	grass	small
+RelatedTo	rest	small
+RelatedTo	creature	small
+RelatedTo	spark	small
+RelatedTo	tablespoon	small
+RelatedTo	penny	small
+RelatedTo	duck	small
+RelatedTo	band	small
+RelatedTo	saucer	small
+RelatedTo	bird	small
+RelatedTo	mosquito	small
+RelatedTo	dagger	small
+RelatedTo	large	small
+RelatedTo	moon	small
+RelatedTo	canoe	small
+RelatedTo	rock	small
+RelatedTo	tangerine	small
+RelatedTo	button	small
+RelatedTo	case	small
+RelatedTo	wire	small
+RelatedTo	bud	small
+RelatedTo	globe	small
+RelatedTo	puddle	small
+RelatedTo	ring	small
+RelatedTo	snail	small
+RelatedTo	letter	small
+RelatedTo	party	small
+RelatedTo	ramp	small
+RelatedTo	dime	small
+RelatedTo	mink	small
+RelatedTo	frog	small
+RelatedTo	farm	small
+RelatedTo	eye	small
+RelatedTo	way	small
+RelatedTo	bacteria	small
+RelatedTo	cookie	small
+RelatedTo	bath	small
+RelatedTo	fairy	small
+RelatedTo	van	small
+RelatedTo	wood	small
+RelatedTo	glitter	small
+RelatedTo	accord	small
+RelatedTo	cigarette	small
+RelatedTo	hop	small
+RelatedTo	ant	small
+RelatedTo	mouse	small
+RelatedTo	whistle	small
+RelatedTo	rule	small
+RelatedTo	jacket	small
+RelatedTo	part	small
+RelatedTo	low	small
+RelatedTo	rug	small
+RelatedTo	foot	small
+RelatedTo	owner	small
+RelatedTo	club	small
+RelatedTo	column	small
+RelatedTo	one	small
+RelatedTo	chop	small
+RelatedTo	house	small
+RelatedTo	taste	small
+RelatedTo	wound	small
+RelatedTo	delta	small
+RelatedTo	kid	small
+RelatedTo	gnat	small
+RelatedTo	squeak	small
+RelatedTo	hail	small
+RelatedTo	cart	small
+RelatedTo	factory	small
+RelatedTo	dollar	small
+RelatedTo	trout	small
+RelatedTo	shrimp	small
+RelatedTo	cord	small
+RelatedTo	ocean	small
+RelatedTo	lantern	small
+RelatedTo	steam	small
+RelatedTo	safe	small
+RelatedTo	germ	small
+RelatedTo	detail	small
+RelatedTo	gun	small
+RelatedTo	pore	small
+RelatedTo	limp	small
+RelatedTo	crab	small
+RelatedTo	drizzle	small
+RelatedTo	macaroni	small
+RelatedTo	spade	small
+RelatedTo	figure	small
+RelatedTo	nose	small
+RelatedTo	room	small
+RelatedTo	otter	small
+RelatedTo	dictionary	small
+RelatedTo	diner	small
+RelatedTo	merchant	small
+RelatedTo	toe	small
+RelatedTo	box	small
+RelatedTo	order	small
+RelatedTo	settlement	small
+RelatedTo	hut	small
+RelatedTo	mite	small
+RelatedTo	flower	small
+RelatedTo	lute	small
+RelatedTo	arrow	small
+RelatedTo	cabinet	small
+RelatedTo	bracelet	small
+RelatedTo	algae	small
+RelatedTo	raspberry	small
+RelatedTo	slip	small
+RelatedTo	dot	small
+RelatedTo	crowd	small
+RelatedTo	cathedral	small
+RelatedTo	armadillo	small
+RelatedTo	shade	small
+RelatedTo	stool	small
+RelatedTo	ferry	small
+RelatedTo	sandy	small
+RelatedTo	jockey	small
+RelatedTo	troop	small
+RelatedTo	can	small
+RelatedTo	wave	small
+RelatedTo	soap	small
+RelatedTo	mercury	small
+RelatedTo	desk	small
+RelatedTo	flask	small
+RelatedTo	away	small
+RelatedTo	chair	small
+RelatedTo	shoe	small
+RelatedTo	stem	small
+RelatedTo	word	small
+RelatedTo	dart	small
+RelatedTo	cafe	small
+RelatedTo	iron	small
+RelatedTo	car	small
+RelatedTo	cup	small
+RelatedTo	always	small
+RelatedTo	puny	small
+RelatedTo	grow	small
+RelatedTo	dirt	small
+RelatedTo	pin	small
+RelatedTo	crowd	large
+RelatedTo	size	large
+RelatedTo	city	large
+RelatedTo	bear	large
+RelatedTo	mountain	large
+RelatedTo	large	big
+RelatedTo	cathedral	large
+RelatedTo	river	large
+RelatedTo	continent	large
+RelatedTo	horse	large
+RelatedTo	tree	large
+RelatedTo	big	large
+RelatedTo	large	size
+RelatedTo	ocean	large
+RelatedTo	tall	large
+IsA	large	size
+RelatedTo	department	large
+RelatedTo	branch	large
+RelatedTo	lake	large
+RelatedTo	plate	large
+RelatedTo	sea	large
+RelatedTo	hall	large
+RelatedTo	large	adjective
+RelatedTo	whale	large
+RelatedTo	baptismal font	large
+RelatedTo	great	large
+RelatedTo	gape	large
+RelatedTo	chef	large
+RelatedTo	mile	large
+RelatedTo	generous	large
+RelatedTo	butt	large
+HasProperty	ranch	large
+RelatedTo	westminster abbey	large
+RelatedTo	increase	large
+RelatedTo	toilet	large
+RelatedTo	ledger	large
+RelatedTo	good	large
+RelatedTo	wardrobe	large
+AtLocation	suspect	large
+RelatedTo	heifer	large
+RelatedTo	muscular	large
+RelatedTo	high	large
+RelatedTo	whopper	large
+RelatedTo	hovel	large
+RelatedTo	fell	large
+RelatedTo	range	large
+RelatedTo	big	large
+HasProperty	large	wide
+RelatedTo	supermarket	large
+RelatedTo	solid	large
+RelatedTo	godzilla	large
+HasProperty	asia	large
+RelatedTo	augment	large
+RelatedTo	canon	large
+RelatedTo	gross	large
+RelatedTo	long	large
+RelatedTo	immense	large
+RelatedTo	tongue	large
+RelatedTo	side	large
+RelatedTo	fatty	large
+RelatedTo	catastrophe	large
+RelatedTo	huge	large
+RelatedTo	great lake	large
+RelatedTo	crane	large
+RelatedTo	giant	large
+RelatedTo	small	large
+RelatedTo	monster	large
+RelatedTo	monster	large
+RelatedTo	bumper	large
+RelatedTo	large	pound
+RelatedTo	large	great
+RelatedTo	large	size
+RelatedTo	powerful	large
+RelatedTo	bureaucracy	large
+RelatedTo	pomelo	large
+RelatedTo	infinite	large
+RelatedTo	leopard	large
+RelatedTo	wheelchair	large
+RelatedTo	concession	large
+RelatedTo	gigantic	large
+RelatedTo	common	large
+HasProperty	door	large
+RelatedTo	bumper	large
+RelatedTo	landmass	large
+RelatedTo	organization	large
+RelatedTo	squirrel	large
+RelatedTo	war	large
+RelatedTo	rock	large
+RelatedTo	large	huge
+RelatedTo	record	large
+RelatedTo	stone	large
+RelatedTo	hill	large
+RelatedTo	large	very big
+RelatedTo	highway	large
+RelatedTo	gorilla	large
+RelatedTo	elephant	large
+RelatedTo	statue	large
+RelatedTo	castle	large
+RelatedTo	corporation	large
+RelatedTo	country	large
+RelatedTo	capital	large
+RelatedTo	dictionary	large
+RelatedTo	farm	large
+RelatedTo	much	large
+RelatedTo	bank	large
+RelatedTo	company	large
+RelatedTo	large	medium
+RelatedTo	rabbit	large
+RelatedTo	heavy	large
+RelatedTo	stick	large
+RelatedTo	mural	large
+RelatedTo	auditorium	large
+RelatedTo	orchestra	large
+RelatedTo	dog	large
+RelatedTo	mass	large
+RelatedTo	van	large
+RelatedTo	clock	large
+RelatedTo	moose	large
+RelatedTo	warehouse	large
+RelatedTo	sail	large
+RelatedTo	far	large
+RelatedTo	fortune	large
+RelatedTo	large	small
+RelatedTo	field	large
+RelatedTo	wound	large
+RelatedTo	poster	large
+RelatedTo	battle	large
+RelatedTo	bass	large
+RelatedTo	vessel	large
+RelatedTo	rat	large
+RelatedTo	cigar	large
+RelatedTo	china	large
+RelatedTo	noise	large
+RelatedTo	large	like
+RelatedTo	earth	large
+RelatedTo	great	large
+RelatedTo	cleaver	large
+RelatedTo	giant	large
+RelatedTo	large	enormous
+RelatedTo	crown	large
+RelatedTo	church	large
+RelatedTo	ram	large
+RelatedTo	piano	large
+RelatedTo	parcel	large
+RelatedTo	python	large
+RelatedTo	audience	large
+RelatedTo	boil	large
+RelatedTo	metropolis	large
+RelatedTo	planet	large
+RelatedTo	feast	large
+RelatedTo	pope	large
+RelatedTo	keg	large
+RelatedTo	population	large
+RelatedTo	coat	large
+RelatedTo	forest	large
+RelatedTo	owl	large
+RelatedTo	gallon	large
+RelatedTo	library	large
+RelatedTo	event	large
+RelatedTo	couch	large
+RelatedTo	mansion	large
+RelatedTo	monument	large
+RelatedTo	albatross	large
+RelatedTo	ape	large
+RelatedTo	column	large
+RelatedTo	stork	large
+RelatedTo	emporium	large
+RelatedTo	leopard	large
+RelatedTo	shade	large
+RelatedTo	glacier	large
+RelatedTo	lobby	large
+RelatedTo	chicken	large
+RelatedTo	yacht	large
+RelatedTo	pig	large
+RelatedTo	cake	large
+RelatedTo	bed	large
+RelatedTo	steel	large
+RelatedTo	order	large
+RelatedTo	many	large
+RelatedTo	garden	large
+RelatedTo	protest	large
+RelatedTo	atom	large
+RelatedTo	house	large
+RelatedTo	suite	large
+RelatedTo	large	choice
+RelatedTo	large	menu
+RelatedTo	bullet	large
+RelatedTo	gown	large
+RelatedTo	platter	large
+RelatedTo	gulf	large
+RelatedTo	lot	large
+RelatedTo	view	large
+RelatedTo	army	large
+RelatedTo	factory	large
+RelatedTo	sheep	large
+RelatedTo	corn	large
+RelatedTo	evergreen	large
+RelatedTo	harp	large
+RelatedTo	stage	large
+RelatedTo	trial	large
+RelatedTo	cow	large
+RelatedTo	mole	large
+RelatedTo	bin	large
+RelatedTo	oak	large
+RelatedTo	ship	large
+RelatedTo	wall	large
+RelatedTo	fat	large
+RelatedTo	pit	large
+RelatedTo	road	large
+RelatedTo	flood	large
+RelatedTo	ear	organ
+RelatedTo	ear	part
+AtLocation	ear	head
+RelatedTo	ear	body
+IsA	ear	part of body
+RelatedTo	ear	body part
+RelatedTo	sound	ear
+RelatedTo	corn	ear
+RelatedTo	ear	face
+RelatedTo	wax	ear
+RelatedTo	ear	listen
+IsA	right ear	ear
+RelatedTo	ear	lobe
+RelatedTo	listen	ear
+RelatedTo	ear	device
+PartOf	ear	corn
+IsA	ear	fruit
+PartOf	ear	head
+IsA	ear	attention
+RelatedTo	earring	ear
+PartOf	eardrum	ear
+RelatedTo	ear	drum
+RelatedTo	ear	sense
+RelatedTo	hear	ear
+RelatedTo	ear	appendage
+RelatedTo	ear	nose
+RelatedTo	ear	pinna
+RelatedTo	ear	eardrum
+RelatedTo	pitcher	ear
+AtLocation	earring	ear
+RelatedTo	crop	ear
+RelatedTo	canon	ear
+RelatedTo	rash	ear
+CapableOf	ear	hear
+RelatedTo	ear	grain
+RelatedTo	ear	hear
+RelatedTo	ear	organ
+RelatedTo	earplug	ear
+RelatedTo	mammal	ear
+RelatedTo	sound	ear
+IsA	ear	protrusion
+RelatedTo	corn on cob	ear
+HasProperty	ear	flexible
+RelatedTo	hear	ear
+RelatedTo	ear	handle
+RelatedTo	jug	ear
+UsedFor	ear	earing
+AtLocation	drum	ear
+UsedFor	ear	listen to music
+IsA	right ear	ear
+IsA	ear	solid object
+RelatedTo	flip	ear
+PartOf	lobe	ear
+RelatedTo	ear	police
+RelatedTo	twitch	ear
+RelatedTo	ear	support
+IsA	ear	body part
+RelatedTo	earpiece	ear
+PartOf	eardrum	ear
+RelatedTo	bobcat	ear
+RelatedTo	pinna	ear
+AtLocation	ear	lord
+RelatedTo	ear	side
+RelatedTo	eye	ear
+RelatedTo	ear	sensory organ
+RelatedTo	ear	human
+RelatedTo	ear	shell
+RelatedTo	ear	hole
+RelatedTo	ear	two
+RelatedTo	ear	canal
+RelatedTo	ear	eye
+RelatedTo	ear	head
+RelatedTo	ear	earring
+RelatedTo	ear	listen device
+RelatedTo	ear	wax
+RelatedTo	ear	tool
+RelatedTo	head	ear
+RelatedTo	ear	mouth
+RelatedTo	hole	ear
+RelatedTo	ear	pair
+RelatedTo	cotton	ear
+RelatedTo	ear	instrument
+RelatedTo	ear	hair
+RelatedTo	ear	round
+RelatedTo	ear	deer
+RelatedTo	ear	item
+RelatedTo	face	ear
+RelatedTo	fear	ear
+RelatedTo	ear	inside
+RelatedTo	drink	ear
+RelatedTo	song	ear
+RelatedTo	ear	cell
+RelatedTo	ear	cell phone
+RelatedTo	ear	phone
+RelatedTo	ear	antenna
+RelatedTo	ear	moon
+RelatedTo	ear	skull
+RelatedTo	dumb	ear
+RelatedTo	ear	sight
+RelatedTo	noise	ear
+RelatedTo	ear	receiver
+RelatedTo	sock	ear
+RelatedTo	ear	type
+RelatedTo	ear	sometimes
+RelatedTo	canine	pointy
+RelatedTo	pike	pointy
+HasProperty	toothpick	pointy
+RelatedTo	tack	pointy
+RelatedTo	stick	pointy
+RelatedTo	thorn	pointy
+RelatedTo	edge	pointy
+RelatedTo	crown	pointy
+RelatedTo	mountain	pointy
+RelatedTo	arrow	pointy
+RelatedTo	cone	pointy
+RelatedTo	elf	pointy
+RelatedTo	bullet	pointy
+RelatedTo	nail	pointy
+RelatedTo	needle	pointy
+RelatedTo	star	pointy
+RelatedTo	asparagus	pointy
+RelatedTo	bat	pointy
+RelatedTo	horn	pointy
+RelatedTo	nose	pointy
+RelatedTo	empire	pointy
+RelatedTo	party	pointy
+RelatedTo	mole	pointy
+RelatedTo	crown	head
+RelatedTo	neck	head
+RelatedTo	head	body
+RelatedTo	head	neck
+RelatedTo	head	brain
+RelatedTo	head	top
+RelatedTo	face	head
+RelatedTo	eye	head
+PartOf	eye	head
+RelatedTo	head	face
+RelatedTo	head	part
+RelatedTo	head	body part
+AtLocation	ear	head
+RelatedTo	captain	head
+PartOf	hair	your head
+RelatedTo	body	head
+RelatedTo	head	skull
+PartOf	head	animal
+UsedFor	head	bang it on wall
+RelatedTo	skull	head
+UsedFor	head	think
+AtLocation	head	morgue
+HasA	your head	your brain
+RelatedTo	nod	head
+RelatedTo	head	mouth
+RelatedTo	head	hair
+RelatedTo	head	round
+RelatedTo	head	nose
+RelatedTo	helmet	head
+IsA	general	head
+IsA	head	leader
+PartOf	head	coin
+UsedFor	head	go to bathroom in
+PartOf	brain	head
+IsA	head	foam
+IsA	head	word
+RelatedTo	headache	head
+IsA	head	object
+PartOf	head	animal
+PartOf	head	hammer
+PartOf	head	ram
+IsA	head	pressure
+IsA	head	top
+PartOf	head	nail
+PartOf	head	body
+IsA	head	toilet
+PartOf	head	pin
+PartOf	nose	head
+IsA	head	structure
+PartOf	temple	head
+PartOf	head	bolt
+IsA	head	domestic animal
+PartOf	face	head
+PartOf	skull	head
+IsA	head	individual
+IsA	head	point
+IsA	secretary	head
+PartOf	ear	head
+UsedFor	head	go to bathroom
+PartOf	face	head
+PartOf	head	screw
+RelatedTo	mind	head
+RelatedTo	head	hat
+RelatedTo	head	ball
+RelatedTo	president	head
+RelatedTo	capital	head
+RelatedTo	head	container
+RelatedTo	head	melon
+RelatedTo	pillow	head
+RelatedTo	brain	head
+RelatedTo	hammer	head
+RelatedTo	doll	head
+RelatedTo	head	crisis
+RelatedTo	tram	head
+RelatedTo	web	head
+RelatedTo	horn	head
+RelatedTo	hammer	head
+RelatedTo	nut	head
+RelatedTo	nod	head
+RelatedTo	life jacket	head
+IsA	head	part of animal
+RelatedTo	king	head
+AtLocation	head	submarine
+RelatedTo	head	leave
+AtLocation	mouth	head
+RelatedTo	head	leader
+RelatedTo	axe	head
+RelatedTo	clock	head
+RelatedTo	head	fluid
+RelatedTo	head	cunnilingus
+RelatedTo	head	toilet
+RelatedTo	tadpole	head
+RelatedTo	head	flower
+RelatedTo	foot	head
+RelatedTo	head	fan
+RelatedTo	round table	head
+RelatedTo	crown	head
+RelatedTo	head	ship
+RelatedTo	hatpin	head
+RelatedTo	whiplash	head
+RelatedTo	white horse	head
+RelatedTo	train	head
+RelatedTo	bean	head
+RelatedTo	waxwing	head
+RelatedTo	head	drug
+RelatedTo	hood	head
+RelatedTo	neck	head
+RelatedTo	nut	head
+RelatedTo	pate	head
+AtLocation	head	helmet
+RelatedTo	jack	head
+RelatedTo	face	head
+RelatedTo	screw	head
+RelatedTo	head	front
+RelatedTo	head	subject
+CapableOf	head	ache
+RelatedTo	capital	head
+RelatedTo	boss	head
+RelatedTo	hard hat	head
+AtLocation	knowledge	your head
+RelatedTo	beak	head
+HasProperty	my head	warm
+UsedFor	head	make salad
+RelatedTo	head	brain
+RelatedTo	master bedroom	head
+RelatedTo	lodge	head
+RelatedTo	pope	head
+RelatedTo	head	sense
+RelatedTo	unicorn	head
+RelatedTo	motorboat	head
+RelatedTo	fuse	head
+RelatedTo	head	hood
+RelatedTo	axe	head
+RelatedTo	nod	head
+RelatedTo	web	head
+RelatedTo	dome	head
+RelatedTo	overhead	head
+RelatedTo	bear	head
+RelatedTo	cradle	head
+UsedFor	head	hat
+RelatedTo	clock	head
+RelatedTo	life jacket	head
+RelatedTo	hammer	head
+RelatedTo	hair dye	head
+RelatedTo	cabbage	head
+RelatedTo	pullover	head
+RelatedTo	scalp	head
+PartOf	head	match
+RelatedTo	skull	head
+AtLocation	head	submarine
+RelatedTo	king	head
+RelatedTo	nut	head
+RelatedTo	head	cunnilingus
+RelatedTo	horn	head
+RelatedTo	tram	head
+RelatedTo	head	crisis
+RelatedTo	overhead	head
+RelatedTo	knob	head
+RelatedTo	surfactant	head
+IsA	head	solid object
+RelatedTo	spine	head
+RelatedTo	head	seed
+RelatedTo	head	stupidity
+HasA	person	head
+RelatedTo	gourd	head
+RelatedTo	sledgehammer	head
+RelatedTo	cook	head
+RelatedTo	pillow	head
+RelatedTo	heel	head
+RelatedTo	head	column
+RelatedTo	loaf	head
+RelatedTo	bun	head
+RelatedTo	head	fluid
+RelatedTo	head	leader
+RelatedTo	head	leave
+AtLocation	mouth	head
+IsA	head	part of animal
+RelatedTo	secretary	head
+RelatedTo	tail	head
+RelatedTo	sari	head
+RelatedTo	walk dog	head
+RelatedTo	pinna	head
+RelatedTo	thumbtack	head
+RelatedTo	phrase	head
+PartOf	1 nose	head
+RelatedTo	wood	head
+IsA	head	anatomy
+RelatedTo	chef	head
+PartOf	head	penis
+AtLocation	head	body
+RelatedTo	point	head
+AtLocation	head	ship
+RelatedTo	noodle	head
+RelatedTo	head	mouth
+RelatedTo	head	weight
+RelatedTo	station	head
+RelatedTo	sunflower	head
+RelatedTo	head	body
+RelatedTo	rocket	head
+RelatedTo	head	direction
+PartOf	mouth	head
+RelatedTo	queue	head
+RelatedTo	helmet	head
+PartOf	1 mouth	head
+RelatedTo	postmaster	head
+RelatedTo	head	music
+RelatedTo	head	melody
+RelatedTo	oxygen tent	head
+RelatedTo	head	energy
+RelatedTo	pin	head
+RelatedTo	head	lake
+RelatedTo	bonk	head
+UsedFor	head	get out of trouble
+RelatedTo	flat	head
+RelatedTo	boss	head
+IsA	head	body part
+RelatedTo	cap	head
+RelatedTo	head	oral sex
+RelatedTo	head	joint
+RelatedTo	head	river
+RelatedTo	mouth	head
+RelatedTo	idea	head
+RelatedTo	head	human
+RelatedTo	hat	head
+RelatedTo	head	location
+RelatedTo	head	over
+RelatedTo	principal	head
+RelatedTo	head	crown
+RelatedTo	dandruff	head
+RelatedTo	nose	head
+RelatedTo	head	two
+IsA	head	company
+AtLocation	head	amsterdam
+AtLocation	head	netherlands
+AtLocation	head	austria
+RelatedTo	head	appendage
+RelatedTo	head	shoulder
+RelatedTo	head	leader
+RelatedTo	pope	head
+RelatedTo	hair	head
+RelatedTo	apple	head
+RelatedTo	head	watermelon
+RelatedTo	head	house
+RelatedTo	ear	head
+RelatedTo	head	balloon
+RelatedTo	head	circle
+RelatedTo	head	place
+RelatedTo	head	ear
+RelatedTo	minister	head
+RelatedTo	judge	head
+RelatedTo	head	organ
+RelatedTo	head	party
+RelatedTo	dream	head
+RelatedTo	head	you
+RelatedTo	chicken	head
+RelatedTo	head	big
+RelatedTo	sky	head
+RelatedTo	jaw	head
+RelatedTo	head	think
+RelatedTo	head	inside
+RelatedTo	head	basketball
+RelatedTo	head	box
+RelatedTo	psychologist	head
+RelatedTo	flea	head
+RelatedTo	boy	head
+RelatedTo	head	piece
+RelatedTo	head	up
+RelatedTo	shade	head
+RelatedTo	pin	head
+RelatedTo	father	head
+RelatedTo	head	round thing
+RelatedTo	head	sphere
+RelatedTo	head	thinker
+RelatedTo	arrow	head
+RelatedTo	leader	head
+RelatedTo	head	scalp
+RelatedTo	head	anatomy
+RelatedTo	mayor	head
+RelatedTo	hand	head
+RelatedTo	population	head
+RelatedTo	head	animal
+RelatedTo	head	animal body
+RelatedTo	quail	head
+RelatedTo	horn	head
+RelatedTo	board	head
+RelatedTo	teacher	head
+RelatedTo	human	head
+RelatedTo	head	sometimes
+RelatedTo	head	object
+RelatedTo	head	round object
+RelatedTo	mother	head
+RelatedTo	imagination	head
+RelatedTo	head	dome
+RelatedTo	stroke	head
+RelatedTo	head	par
+RelatedTo	head	potato
+RelatedTo	bill	head
+RelatedTo	quarter	head
+RelatedTo	head	people
+RelatedTo	whisker	head
+RelatedTo	hood	head
+RelatedTo	dive	head
+RelatedTo	count	head
+RelatedTo	wall	head
+RelatedTo	head	live
+RelatedTo	department	head
+RelatedTo	head	enclosure
+RelatedTo	head	person
+RelatedTo	rule	head
+RelatedTo	fog	head
+RelatedTo	abdomen	head
+RelatedTo	king	head
+RelatedTo	rabbi	head
+RelatedTo	head	torso
+RelatedTo	head	shampoo
+RelatedTo	head	use
+RelatedTo	bishop	head
+RelatedTo	stitch	head
+RelatedTo	council	head
+IsA	plastic	material
+RelatedTo	doll	plastic
+IsA	plastic	man-made product
+MadeOf	bottle	plastic
+IsA	vinyl	plastic
+MadeOf	pen	plastic
+CapableOf	plastic	melt
+MadeOf	tv	plastic
+IsA	polyester	plastic
+IsA	plastic	invention
+IsA	plastic	solid
+IsA	vinyl	plastic
+RelatedTo	toy	plastic
+RelatedTo	card	plastic
+RelatedTo	record	plastic
+RelatedTo	plastic	credit card
+AtLocation	plastic	cabinet
+RelatedTo	plastic	polymer
+CapableOf	plastic	burn
+RelatedTo	plastic	fake
+IsA	plastic	solid object
+RelatedTo	graphite	plastic
+MadeOf	computer monitor	plastic
+RelatedTo	plastic	arrogant
+MadeOf	button	plastic
+RelatedTo	baggy	plastic
+RelatedTo	mold	plastic
+RelatedTo	hard hat	plastic
+CreatedBy	plastic	oil
+RelatedTo	trash bag	plastic
+HasProperty	plastic	translucent
+RelatedTo	paper cup	plastic
+RelatedTo	acrylic	plastic
+MadeOf	comb	plastic
+RelatedTo	plastic	creative
+AtLocation	plastic	store
+RelatedTo	paper clip	plastic
+MadeOf	ball	plastic
+HasProperty	some trash	plastic
+MadeOf	plastic	carbon
+RelatedTo	shoe	plastic
+RelatedTo	action figure	plastic
+AtLocation	plastic	my kitchen
+RelatedTo	ice pack	plastic
+RelatedTo	butt	plastic
+RelatedTo	plastic	debit card
+IsA	nylon	plastic
+IsA	rayon	plastic
+RelatedTo	wallet	plastic
+IsA	polyethylene	plastic
+RelatedTo	ice bag	plastic
+CapableOf	plastic	last long time
+MadeOf	keyboard	plastic
+RelatedTo	garbage bag	plastic
+AtLocation	plastic	cupboard
+IsA	plastic	inanimate object
+RelatedTo	vinyl	plastic
+RelatedTo	plastic	fake
+AtLocation	plastic	your own home
+MadeOf	wallet	plastic
+RelatedTo	bean	plastic
+AtLocation	plastic	trash
+RelatedTo	card	plastic
+AtLocation	plastic	everything
+HasProperty	acrylic	plastic
+UsedFor	plastic	strangle fish
+AtLocation	plastic	garbage dump
+RelatedTo	baseball bat	plastic
+RelatedTo	glass	plastic
+RelatedTo	keyring	plastic
+RelatedTo	token	plastic
+RelatedTo	plastic	flexible
+IsA	acrylic	plastic
+RelatedTo	art	plastic
+UsedFor	plastic	make something
+RelatedTo	greenhouse	plastic
+RelatedTo	tape measure	plastic
+RelatedTo	gauze	plastic
+RelatedTo	plastic	malleable
+HasProperty	plastic	clear
+HasProperty	plastic	solid
+HasProperty	plastic	transparent
+MadeOf	weight machine	plastic
+MadeOf	toothpick	plastic
+RelatedTo	can	plastic
+RelatedTo	stay	plastic
+RelatedTo	racket	plastic
+RelatedTo	bag	plastic
+RelatedTo	credit card	plastic
+RelatedTo	plastic	cash
+RelatedTo	bag	plastic
+RelatedTo	charge	plastic
+RelatedTo	glass	plastic
+RelatedTo	oil	plastic
+RelatedTo	tube	plastic
+RelatedTo	paper	plastic
+RelatedTo	button	plastic
+RelatedTo	ornament	plastic
+RelatedTo	balloon	plastic
+RelatedTo	eye	face
+RelatedTo	nose	face
+AtLocation	nose	your face
+RelatedTo	face	head
+RelatedTo	head	face
+RelatedTo	face	nose
+RelatedTo	mouth	face
+RelatedTo	smile	face
+RelatedTo	ear	face
+RelatedTo	face	front
+PartOf	eye	face
+RelatedTo	napkin	face
+RelatedTo	face	part
+RelatedTo	face	body
+RelatedTo	face	mouth
+RelatedTo	face	body part
+RelatedTo	clock	face
+PartOf	chin	face
+PartOf	mouth	face
+PartOf	cheek	face
+IsA	face	person
+PartOf	eye	face
+IsA	dial	face
+PartOf	face	head
+PartOf	face	watch
+PartOf	face	animal
+RelatedTo	makeup	face
+PartOf	nose	face
+PartOf	face	head
+PartOf	beard	face
+PartOf	eyebrow	face
+PartOf	face	racket
+PartOf	jaw	face
+IsA	face	surface
+PartOf	face	clock
+IsA	face	front
+IsA	face	appearance
+RelatedTo	lip	face
+RelatedTo	cheek	face
+RelatedTo	doll	face
+RelatedTo	face	watch
+RelatedTo	opposite	face
+UsedFor	nose	face
+RelatedTo	up	face
+PartOf	my face	me
+IsA	face	solid object
+RelatedTo	face	clock
+RelatedTo	boat race	face
+RelatedTo	chin	face
+RelatedTo	exposure	face
+RelatedTo	toner	face
+RelatedTo	dodecahedron	face
+RelatedTo	face	lion
+AtLocation	beaver	your face
+RelatedTo	dimple	face
+RelatedTo	face	lose face
+PartOf	beard	face
+RelatedTo	face	interest
+RelatedTo	shave	face
+HasA	clock	face
+RelatedTo	orient	face
+RelatedTo	breast	face
+RelatedTo	face	dial
+RelatedTo	tackle	face
+RelatedTo	face	golf club
+IsA	face	body part
+RelatedTo	face	anger
+AtLocation	pimple	your face
+RelatedTo	hand	face
+RelatedTo	map	face
+RelatedTo	laugh	face
+RelatedTo	face	head
+RelatedTo	washbasin	face
+RelatedTo	breast up	face
+RelatedTo	beak	face
+RelatedTo	front	face
+RelatedTo	facial hair	face
+RelatedTo	face	opponent
+PartOf	face	body
+IsA	lose face	face
+RelatedTo	mugger	face
+RelatedTo	face	watch
+RelatedTo	chimney	face
+RelatedTo	face	lose face
+RelatedTo	face	clock
+HasA	face	nose
+RelatedTo	dodecahedron	face
+RelatedTo	toner	face
+RelatedTo	face	discount
+RelatedTo	orient	face
+PartOf	beard	face
+RelatedTo	face	lion
+RelatedTo	boat race	face
+RelatedTo	nose	face
+RelatedTo	pan	face
+RelatedTo	mayonnaise	face
+RelatedTo	chin	face
+HasA	clock	face
+RelatedTo	up	face
+PartOf	my face	me
+RelatedTo	butt	face
+RelatedTo	turn	face
+RelatedTo	die	face
+RelatedTo	carnation	face
+RelatedTo	whisker	face
+RelatedTo	loft	face
+RelatedTo	foundation	face
+RelatedTo	eat it	face
+RelatedTo	beard	face
+RelatedTo	face	mouth
+PartOf	moustache	face
+PartOf	eyebrow	face
+RelatedTo	janus	face
+RelatedTo	flag	face
+RelatedTo	edge	face
+RelatedTo	face	baby face
+RelatedTo	face down	face
+RelatedTo	washroom	face
+RelatedTo	pitch	face
+RelatedTo	ugly	face
+RelatedTo	duck and cover	face
+RelatedTo	mask	face
+RelatedTo	heel	face
+RelatedTo	ace	face
+RelatedTo	face	facial expression
+RelatedTo	face	neck
+RelatedTo	watch	face
+RelatedTo	turn	face
+RelatedTo	mole	face
+RelatedTo	chin	face
+RelatedTo	jaw	face
+RelatedTo	portrait	face
+RelatedTo	recognize	face
+RelatedTo	blush	face
+RelatedTo	beard	face
+RelatedTo	face	round
+RelatedTo	veil	face
+RelatedTo	face	human
+RelatedTo	moon	face
+RelatedTo	face	you
+RelatedTo	face	up
+RelatedTo	pore	face
+RelatedTo	horse	face
+RelatedTo	person	face
+RelatedTo	cry	face
+RelatedTo	neck	face
+RelatedTo	mane	face
+RelatedTo	clown	face
+RelatedTo	tusk	face
+RelatedTo	face	two
+RelatedTo	child	face
+RelatedTo	bill	face
+RelatedTo	pretty	face
+RelatedTo	side	face
+RelatedTo	skull	face
+RelatedTo	face	whole
+RelatedTo	whisker	face
+RelatedTo	font	face
+RelatedTo	face	book
+RelatedTo	face	but
+RelatedTo	dollar	face
+RelatedTo	stroke	face
+RelatedTo	cliff	face
+RelatedTo	hand	face
+RelatedTo	mimic	face
+RelatedTo	face	everybody
+RelatedTo	social	face
+RelatedTo	face	eye
+RelatedTo	face	ear
+RelatedTo	face	cheek
+RelatedTo	shadow	face
+RelatedTo	face	everyone
+RelatedTo	face	plate
+RelatedTo	punch	face
+RelatedTo	face	make
+RelatedTo	face	person
+RelatedTo	face	make up
+RelatedTo	face	smile
+RelatedTo	face	hair
+RelatedTo	dimple	face
+RelatedTo	happy	face
+RelatedTo	soap	face
+RelatedTo	face	together
+RelatedTo	fireplace	face
+RelatedTo	face	eat
+RelatedTo	face	see
+RelatedTo	face	expression
+RelatedTo	face	portrait
+RelatedTo	face	organic
+RelatedTo	face	personal
+RelatedTo	brother	face
+RelatedTo	face	turn
+RelatedTo	face	appearance
+RelatedTo	climb	face
+RelatedTo	mug	face
+RelatedTo	note	short
+RelatedTo	short	low
+RelatedTo	low	short
+PartOf	short	baseball diamond
+RelatedTo	story	short
+RelatedTo	rest	short
+RelatedTo	test	short
+RelatedTo	minute	short
+RelatedTo	short	far
+RelatedTo	touch	short
+RelatedTo	minute	short
+RelatedTo	short	close
+RelatedTo	foxtrot	short
+RelatedTo	short	brittle
+IsA	nap	short
+RelatedTo	short	film
+RelatedTo	anecdote	short
+RelatedTo	stubby	short
+RelatedTo	chirp	short
+RelatedTo	dachshund	short
+RelatedTo	deficit	short
+RelatedTo	condor	short
+RelatedTo	short	electrical
+RelatedTo	february	short
+HasProperty	joe	short
+RelatedTo	ephemeral	short
+RelatedTo	short	horizontal
+RelatedTo	short	security
+RelatedTo	short	ownership
+RelatedTo	sprint	short
+RelatedTo	run around	short
+RelatedTo	short	negative
+RelatedTo	short	short circuit
+RelatedTo	guard	short
+RelatedTo	short	vertical
+RelatedTo	short	variable
+RelatedTo	short	sound
+RelatedTo	ephemeral	short
+RelatedTo	short	shortstop
+NotHasProperty	tall	short
+RelatedTo	dumbbell	short
+RelatedTo	brittle	short
+RelatedTo	flash	short
+RelatedTo	silly	short
+RelatedTo	stop	short
+HasProperty	short	small
+RelatedTo	long	short
+RelatedTo	short	full
+RelatedTo	crisp	short
+RelatedTo	music video	short
+RelatedTo	short	goal
+RelatedTo	midget	short
+RelatedTo	shirt	short
+RelatedTo	short	circuit
+RelatedTo	long	short
+RelatedTo	break	short
+RelatedTo	dad	short
+RelatedTo	it	short
+RelatedTo	short	small
+RelatedTo	skirt	short
+RelatedTo	bill	short
+RelatedTo	boy	short
+RelatedTo	isle	short
+RelatedTo	long	short
+RelatedTo	nor	short
+RelatedTo	crew	short
+RelatedTo	jacket	short
+RelatedTo	memory	short
+RelatedTo	sneeze	short
+RelatedTo	trip	short
+RelatedTo	short	person
+RelatedTo	hill	short
+RelatedTo	crop	short
+RelatedTo	blue	short
+RelatedTo	cotton	short
+RelatedTo	short	adjective
+RelatedTo	in	short
+RelatedTo	pin	short
+RelatedTo	lane	short
+RelatedTo	rule	short
+RelatedTo	jockey	short
+RelatedTo	message	short
+RelatedTo	math	short
+RelatedTo	car	short
+RelatedTo	joy	short
+RelatedTo	bed	short
+RelatedTo	article	short
+RelatedTo	report	short
+RelatedTo	make	short
+RelatedTo	stitch	short
+RelatedTo	grass	short
+RelatedTo	sprint	short
+RelatedTo	time	short
+RelatedTo	dress	short
+RelatedTo	slip	short
+RelatedTo	point	short
+RelatedTo	son	short
+RelatedTo	lily	short
+RelatedTo	sign	short
+RelatedTo	rabbit	short
+RelatedTo	short	small person
+RelatedTo	he	short
+RelatedTo	body	short
+RelatedTo	be	short
+RelatedTo	lack	short
+RelatedTo	die	short
+RelatedTo	toe	short
+RelatedTo	sleep	short
+RelatedTo	oil	black
+RelatedTo	coal	black
+RelatedTo	black	color
+RelatedTo	record	black
+RelatedTo	black	dark
+IsA	black	color
+HasProperty	ink	black
+RelatedTo	black	colour
+RelatedTo	dark	black
+RelatedTo	smoke	black
+RelatedTo	tar	black
+RelatedTo	crow	black
+RelatedTo	mole	black
+IsA	black	man
+DefinedAs	black	absence of color
+RelatedTo	dark	black
+HasProperty	dog	black
+RelatedTo	black	dark
+RelatedTo	rap	black
+RelatedTo	color	black
+RelatedTo	cow	black
+RelatedTo	bear	black
+RelatedTo	bat	black
+RelatedTo	profit	black
+RelatedTo	space	black
+RelatedTo	road	black
+RelatedTo	creature	black
+RelatedTo	black	dark color
+RelatedTo	black	darkness
+RelatedTo	black	protestant
+HasProperty	hockey puck	black
+RelatedTo	black	cider
+RelatedTo	black	syrup
+RelatedTo	contraband	black
+RelatedTo	black	funeral
+RelatedTo	chocolate	black
+RelatedTo	famine	black
+RelatedTo	brother	black
+HasProperty	outer space	black
+RelatedTo	midnight	black
+RelatedTo	jet	black
+RelatedTo	monochrome	black
+RelatedTo	tuxedo	black
+RelatedTo	talk	black
+RelatedTo	keeshond	black
+RelatedTo	black	dark
+RelatedTo	black	red
+RelatedTo	black	evil
+RelatedTo	black	pigment
+RelatedTo	black	milk
+RelatedTo	shade	black
+HasProperty	pepper	black
+RelatedTo	black	brown
+HasProperty	coffe	black
+RelatedTo	black	maori
+RelatedTo	red wine	black
+RelatedTo	hamburg	black
+RelatedTo	black	board game
+RelatedTo	black	cream
+NotHasProperty	black	white
+RelatedTo	licorice	black
+RelatedTo	pass	black
+RelatedTo	black	melancholy
+UsedFor	hole	black
+HasProperty	coffe	black
+RelatedTo	black	maori
+RelatedTo	black	board game
+RelatedTo	tuxedo	black
+RelatedTo	black	protestant
+HasProperty	hockey puck	black
+RelatedTo	black	funeral
+RelatedTo	contraband	black
+RelatedTo	black	light
+RelatedTo	black	dye
+RelatedTo	black	bad
+RelatedTo	harlem	black
+RelatedTo	black	piece
+RelatedTo	key	black
+HasProperty	that couch	black
+HasProperty	night	black
+RelatedTo	black	catholic
+RelatedTo	black	african
+RelatedTo	black	monochrome
+RelatedTo	ink	black
+RelatedTo	bowler	black
+RelatedTo	goth	black
+RelatedTo	coconut	black
+RelatedTo	black	white
+RelatedTo	black	germany
+RelatedTo	grey	black
+RelatedTo	jet	black
+RelatedTo	chocolate	black
+RelatedTo	black	creamer
+RelatedTo	black	cloth
+RelatedTo	black	night
+RelatedTo	flea	black
+RelatedTo	skunk	black
+RelatedTo	soot	black
+RelatedTo	board	black
+RelatedTo	ink	black
+RelatedTo	gray	black
+RelatedTo	night	black
+RelatedTo	polish	black
+RelatedTo	widow	black
+RelatedTo	sheep	black
+RelatedTo	club	black
+IsA	black	colour
+IsA	black	video game
+RelatedTo	pepper	black
+RelatedTo	asphalt	black
+RelatedTo	judge	black
+RelatedTo	gorilla	black
+RelatedTo	darkness	black
+RelatedTo	black	white
+RelatedTo	street	black
+RelatedTo	limousine	black
+RelatedTo	shade	black
+RelatedTo	note	black
+RelatedTo	black	most
+RelatedTo	clarinet	black
+RelatedTo	piano	black
+RelatedTo	velvet	black
+RelatedTo	shadow	black
+RelatedTo	squirrel	black
+RelatedTo	dress	black
+RelatedTo	slave	black
+RelatedTo	black	brown
+RelatedTo	black	jet
+RelatedTo	black	shade
+RelatedTo	disease	black
+RelatedTo	black	race
+RelatedTo	fashion	black
+RelatedTo	cotton	black
+RelatedTo	olive	black
+RelatedTo	card	black
+RelatedTo	lead	black
+RelatedTo	grape	black
+RelatedTo	ant	black
+RelatedTo	thunder	black
+RelatedTo	black	nighttime
+RelatedTo	habit	black
+RelatedTo	witch	black
+RelatedTo	horse	black
+RelatedTo	fly	black
+RelatedTo	thief	black
+RelatedTo	burn	black
+RelatedTo	beauty	black
+RelatedTo	wallet	black
+RelatedTo	tire	black
+RelatedTo	crown	black
+RelatedTo	seal	black
+RelatedTo	black	grey
+RelatedTo	black	nothing
+RelatedTo	black	stuff
+RelatedTo	president	black
+RelatedTo	or	black
+RelatedTo	change	black
+RelatedTo	till	black
+RelatedTo	iron	black
+RelatedTo	hose	black
+RelatedTo	mold	black
+RelatedTo	person	human
+CapableOf	person	cross street
+CapableOf	person	thank another person
+CapableOf	person	wind clock
+CapableOf	person	voice opinion
+RelatedTo	doll	person
+RelatedTo	character	person
+Desires	person	headache
+NotDesires	person	be diseased
+IsA	slave	person
+RelatedTo	person	people
+NotDesires	person	break leg
+CapableOf	person	laugh at joke
+CapableOf	person	water plant
+PartOf	person	society
+CapableOf	person	board plane
+RelatedTo	servant	person
+RelatedTo	body	person
+RelatedTo	person	individual
+CapableOf	person	catch cold
+CapableOf	person	wave to friend
+CapableOf	person	iron shirt
+RelatedTo	child	person
+RelatedTo	man	person
+Desires	person	understand world
+NotDesires	person	crash his car
+CapableOf	person	shoulder burden
+CapableOf	person	captain ship
+CapableOf	person	plant tree
+Desires	person	more time off
+CapableOf	person	smoke cigar
+Desires	person	understand themselves
+NotDesires	person	schizophrenia
+CapableOf	person	thank god
+Desires	person	praise
+Desires	person	time
+Desires	person	admiration
+NotDesires	person	be fearful
+CapableOf	person	tear paper
+NotDesires	person	be in traffic jam
+NotDesires	person	fall out of love
+CapableOf	person	wind watch
+Desires	person	enjoy
+HasA	person	one head
+CapableOf	person	butter bread
+CapableOf	person	promise to do something
+Desires	person	acknowledgment
+Desires	person	relaxation
+NotDesires	person	his computer to crash
+CapableOf	person	enter house
+RelatedTo	guard	person
+RelatedTo	name	person
+RelatedTo	captain	person
+RelatedTo	people	person
+NotDesires	person	be ill
+CapableOf	person	enter store
+NotDesires	person	deception
+NotDesires	person	hear bad news
+CapableOf	person	own car
+Desires	person	vacation
+CapableOf	person	leave place
+Desires	person	talk about themselves
+Desires	person	see
+Desires	person	feel be in charge
+CapableOf	person	shoulder responsibility
+Desires	person	communication
+CapableOf	person	experience joy
+IsA	alien	person
+CapableOf	person	walk their dog
+CapableOf	person	drink milk
+CapableOf	person	pay on bill
+NotDesires	person	computer virus
+CapableOf	person	wave goodbye
+CapableOf	person	reply to letter
+CapableOf	person	guess answer
+NotDesires	person	truth
+CapableOf	person	trip another person
+NotDesires	person	hangnail
+CapableOf	person	buy car
+Desires	person	good luck
+CapableOf	person	chair committee
+Desires	person	be good-looking
+NotDesires	person	die alone
+NotDesires	person	boredom
+AtLocation	brain	person
+Desires	person	trust himself
+CapableOf	person	surprise another person
+Desires	person	more information
+UsedFor	cream	person
+CapableOf	person	reply to question
+CapableOf	person	buy food
+Desires	person	space
+Desires	person	playfulness
+CapableOf	person	attempt suicide
+NotDesires	person	everything to be same
+Desires	person	feel important
+CapableOf	person	miss appointment
+NotDesires	person	do job over
+CapableOf	person	pick his nose
+CapableOf	person	write letter to friend
+RelatedTo	boy	person
+RelatedTo	human	person
+RelatedTo	owner	person
+RelatedTo	native	person
+Desires	person	be successful in life
+NotDesires	person	it to rain
+Desires	person	honor
+CapableOf	person	bicycle to work
+Desires	person	be smart
+NotDesires	person	isolation
+NotDesires	person	terrorism
+CapableOf	person	sail boat
+NotDesires	person	false information
+Desires	person	talent
+NotDesires	person	be different
+Desires	person	fairness
+Desires	person	have inner peace
+NotDesires	person	bad food
+CapableOf	person	milk cow
+Desires	person	self-esteem
+NotDesires	person	be thirsty
+NotDesires	person	lose their arm
+NotDesires	person	his or her computer to crash
+NotDesires	person	be in car accident
+Desires	person	harmony between all
+Desires	person	world peace
+Desires	person	ipod
+Desires	person	healthy life
+CapableOf	person	give gift
+Desires	person	nice place to live
+Desires	person	compassion
+CapableOf	person	believe in god
+Desires	person	stability in their life
+NotDesires	person	be embarassed
+NotDesires	person	be rich
+Desires	person	eat every day
+CapableOf	person	laugh at himself
+CapableOf	person	win contest
+CapableOf	person	need food
+Desires	person	good memory
+Desires	person	feel happy
+UsedFor	person	help
+NotDesires	person	be unattractive
+Desires	person	solve problem
+Desires	person	more leisure time
+Desires	person	delicious food
+NotDesires	person	harm others
+Desires	person	god
+NotDesires	person	fly in their soup
+NotDesires	person	fall on their head
+NotDesires	person	miss out
+IsA	soldier	person
+Desires	person	be independent
+NotDesires	person	slow internet connection
+NotDesires	person	be miserable
+NotDesires	person	mistrust
+NotDesires	person	die in pain
+PartOf	brain	person
+CapableOf	person	receive letter
+NotDesires	person	annoyance
+Desires	person	know everything
+Desires	person	someone to care about them
+NotDesires	person	misfortune
+Desires	person	make more money
+NotDesires	person	chicken pox
+Desires	person	be expressive
+NotDesires	person	trip
+Desires	person	hapiness
+Desires	person	have home to live in
+Desires	person	popularity
+NotDesires	person	seem unattractive
+NotDesires	person	criticism
+HasA	person	name
+NotDesires	person	injustice
+HasProperty	person	guilty of crime
+Desires	person	fortune
+Desires	person	be right
+Desires	person	fuck
+NotDesires	person	heart attack
+CapableOf	person	amount to something
+Desires	person	life
+RelatedTo	judge	person
+RelatedTo	person	woman
+RelatedTo	poet	person
+RelatedTo	me	person
+RelatedTo	friend	person
+RelatedTo	member	person
+RelatedTo	merchant	person
+IsA	leader	person
+IsA	balance	person
+IsA	machine	person
+NotDesires	person	earache
+IsA	creator	person
+CapableOf	person	master skill
+Desires	person	live in good neighborhood
+IsA	blond	person
+Desires	person	explore
+Desires	person	beer
+Desires	person	dance
+IsA	lover	person
+Desires	person	dinner
+IsA	life	person
+Desires	person	good review
+CapableOf	person	wave at another person
+IsA	explorer	person
+Desires	person	experience
+CapableOf	person	blow that candle out
+AtLocation	person	bus stop
+NotDesires	person	go to work
+Desires	person	live life
+NotDesires	person	unfair boss
+NotDesires	person	irs audit
+Desires	person	fly safely
+NotDesires	person	low self-esteem
+IsA	victim	person
+Desires	person	make good decision
+IsA	capitalist	person
+IsA	white person	person
+Desires	person	see good movie
+Desires	person	imac
+CapableOf	person	subject himself to examination
+Desires	person	hope
+Desires	person	be intelligent
+Desires	person	dignity
+NotDesires	person	be uncomfortable
+IsA	sort	person
+Desires	person	life-partner
+IsA	censor	person
+AtLocation	person	hospital
+Desires	person	financial security
+NotDesires	person	personal harm
+NotDesires	person	be negative
+NotDesires	person	imprisonment
+IsA	extrovert	person
+NotDesires	person	be dirty
+Desires	person	shelter
+AtLocation	heart	person
+NotDesires	person	backache
+Desires	person	equal pay for equal work
+NotDesires	person	stupidity
+Desires	person	feel pleasure
+NotDesires	person	hopeless
+Desires	person	vengence
+Desires	person	inner peace
+Desires	person	company
+Desires	person	privacy
+IsA	native american	person
+NotDesires	person	be in danger
+NotDesires	person	moldy cheese
+Desires	person	be sexy
+NotDesires	person	be victim of prejudice
+Desires	person	green thumb
+CapableOf	person	make wine
+IsA	player	person
+IsA	weasel	person
+IsA	small person	person
+CapableOf	person	talk to someone else
+Desires	person	bargain
+Desires	person	sleep regularly
+NotDesires	person	go bald
+NotDesires	person	eat cat food
+Desires	person	eat food
+Desires	person	peaceful sleep
+IsA	rare bird	person
+IsA	transvestite	person
+Desires	person	technology to help them
+NotDesires	person	sunburn
+AtLocation	person	garage
+NotDesires	person	air pollution
+IsA	hope	person
+NotDesires	person	see frown of disapproval
+Desires	person	peace in life
+NotDesires	person	unreliable car
+Desires	person	look attractive
+CapableOf	person	step out
+IsA	primitive	person
+NotDesires	person	eat rotten fruit
+NotDesires	person	betrayal
+NotDesires	person	go into debt
+Desires	person	fly
+NotDesires	person	work too much
+NotDesires	person	be idiot
+NotDesires	person	dead battery
+Desires	person	be perfect
+IsA	waiter	person
+Desires	person	feel joy
+Desires	person	know truth
+CapableOf	person	face truth
+NotDesires	person	root canal
+NotDesires	person	ugliness
+Desires	person	free food
+NotDesires	person	egg on their face
+IsA	junior	person
+IsA	counter	person
+IsA	ancient	person
+Desires	person	have choice
+Desires	person	stay alive
+CapableOf	person	rest in bed
+Desires	person	time to rest
+IsA	butler	person
+PartOf	right ear	person
+Desires	person	good vodka
+NotDesires	person	have heart attack
+IsA	slut	person
+IsA	clumsy person	person
+Desires	person	help
+Desires	person	have someone to hold
+NotDesires	person	gain weight
+Desires	person	successful career
+Desires	person	prosper
+IsA	entertainer	person
+IsA	alcoholic	person
+CapableOf	person	cup his hand
+NotDesires	person	disappointment
+Desires	person	connection and vital psychological well-being
+IsA	innocent	person
+Desires	person	accomplish
+Desires	person	comfortable bed
+IsA	neutral	person
+Desires	person	positive attention from others
+Desires	person	others to be content
+Desires	person	reward
+Desires	person	jewelry
+NotDesires	person	tax audit
+NotDesires	person	miss boat
+CapableOf	person	talk to themselves
+NotDesires	person	forget everything
+Desires	person	be cherish
+CapableOf	person	take bus
+IsA	male	person
+IsA	sphinx	person
+HasA	person	immune system
+Desires	person	freedom of information
+Desires	person	freedom of expression
+IsA	party	person
+CapableOf	person	rest on bed
+NotDesires	person	bad review
+CapableOf	person	die of cancer
+CapableOf	person	plant thing
+IsA	gemini	person
+IsA	person	organism
+Desires	person	dog
+NotDesires	person	gray hair
+CapableOf	person	wait for while
+Desires	person	play
+IsA	bull	person
+IsA	owner	person
+Desires	person	patient spouse
+Desires	person	leisure
+Desires	person	wellness
+Desires	person	cake
+NotDesires	person	wait in line for too long
+Desires	person	gratification
+Desires	person	take vacation
+Desires	person	have long live
+IsA	priest	person
+IsA	warrior	person
+IsA	transfer	person
+NotDesires	person	uncomfortableness
+HasA	person	belly button
+CapableOf	person	play saxophone
+Desires	person	new computer
+CapableOf	person	butter toast
+NotDesires	person	waste money
+IsA	fish	person
+NotDesires	person	fail out of college
+CapableOf	person	enjoy food
+Desires	person	science
+Desires	person	cassette player in her truck
+IsA	self	person
+IsA	worker	person
+Desires	person	be able to read
+Desires	person	flat tummy
+Desires	person	good car
+IsA	lion	person
+IsA	modern	person
+NotDesires	person	water pollution
+NotDesires	person	loud noise
+Desires	person	go home
+CapableOf	person	lie in bed
+NotDesires	person	be nervous
+NotDesires	person	get hit by base ball
+IsA	banker	person
+Desires	person	freedom from want
+NotDesires	person	confinement
+Desires	person	mankind to explore universe
+IsA	heterosexual	person
+IsA	rich person	person
+CapableOf	person	return favor
+IsA	dieter	person
+IsA	fastener	person
+NotDesires	person	too little money
+Desires	person	respect from others
+CapableOf	person	wave to another person
+Desires	person	make others happy
+IsA	illegal alien	person
+Desires	person	caregiver
+Desires	person	influence
+Desires	person	sympathy
+NotDesires	person	shit
+IsA	suspect	person
+Desires	person	make difference
+CapableOf	person	labor for hire
+AtLocation	soul	person
+Desires	person	avoid pain
+NotDesires	person	eat bad food
+NotDesires	person	poorness
+Desires	person	cotton candy
+Desires	person	smooth skin
+Desires	person	be with cat
+Desires	person	eat pussy
+HasProperty	person	self-interested
+CapableOf	person	age with grace
+CapableOf	person	date another person
+NotDesires	person	lonliness
+CapableOf	person	step up
+Desires	person	have money to buy chocolate
+NotDesires	person	damage themselves
+Desires	person	live long and prosper
+NotDesires	person	friend to be hurt
+NotDesires	person	hatred
+IsA	child	person
+NotDesires	person	body odor
+NotDesires	person	their mate to die
+NotDesires	person	freeze
+Desires	person	read book
+NotDesires	person	feel ugly
+NotDesires	person	be in flood
+NotDesires	person	be set on fire
+CapableOf	person	need companionship
+NotDesires	person	change
+IsA	turner	person
+NotDesires	person	endless repetition
+Desires	person	eat well
+Desires	person	recover from nervous breakdown
+CapableOf	person	board ship
+Desires	person	quiet
+Desires	person	know time
+IsA	bodybuilder	person
+NotDesires	person	be pooped on
+Desires	person	stay healthy
+Desires	person	fair trial
+NotDesires	person	be laughingstock
+NotDesires	person	be impotent
+NotDesires	person	dandruff
+Desires	person	personal freedom
+Desires	person	husband or wife
+IsA	fanatic	person
+NotDesires	person	flu
+Desires	person	good credit
+Desires	person	equal opportunity
+NotDesires	person	migraine
+NotDesires	person	not see clearly
+NotDesires	person	get in car accident
+IsA	dancer	person
+IsA	survivor	person
+CapableOf	person	feel happy
+Desires	person	feel safe
+NotDesires	person	go to war
+Desires	person	leisure time
+Desires	person	achieve enlightenment
+Desires	person	adoration
+CapableOf	person	pay bill
+NotDesires	person	burn his hand
+Desires	person	procrastinate
+NotDesires	person	be obese
+NotDesires	person	be unemployed
+NotDesires	person	lose control
+IsA	beard	person
+IsA	adult	person
+Desires	person	have enough food
+IsA	quarter	person
+IsA	subject	person
+Desires	person	happy family
+IsA	homosexual	person
+IsA	bomber	person
+PartOf	right leg	person
+IsA	ruler	person
+AtLocation	blood	person
+IsA	goat	person
+Desires	person	20-20 vision
+Desires	person	be number 1
+NotDesires	person	suffer with pain
+CapableOf	person	butter piece of bread
+Desires	person	feel desirable
+CapableOf	person	mail parcel to another person
+IsA	literate	person
+IsA	crab	person
+Desires	person	perfect world
+NotDesires	person	fail test
+NotDesires	person	cold oatmeal
+NotDesires	person	guilt
+Desires	person	see beauty
+Desires	person	fresh produce
+IsA	scorpion	person
+Desires	person	low crime
+NotDesires	person	diarrhea
+NotDesires	person	be unpopular
+NotDesires	person	god
+IsA	creature	person
+NotDesires	person	eat liver
+IsA	follower	person
+IsA	authority	person
+RelatedTo	bed	person
+NotDesires	person	uncomfortableness
+HasA	person	belly button
+HasA	person	immune system
+Desires	person	more time
+IsA	sphinx	person
+Desires	person	freedom of information
+CapableOf	person	take bus
+Desires	person	smooth skin
+Desires	person	good conversation
+IsA	male	person
+IsA	scorpion	person
+IsA	slut	person
+NotDesires	person	gray hair
+Desires	person	low crime
+NotDesires	person	waste money
+NotDesires	person	body odor
+Desires	person	fresh produce
+NotDesires	person	cold oatmeal
+CapableOf	person	talk to themselves
+IsA	turner	person
+NotDesires	person	miss boat
+Desires	person	see beauty
+IsA	fish	person
+IsA	literate	person
+IsA	clumsy person	person
+NotDesires	person	be uncomfortable
+Desires	person	be cherish
+NotDesires	person	fail out of college
+Desires	person	good vodka
+NotDesires	person	tax audit
+CapableOf	person	enjoy food
+Desires	person	science
+IsA	bodybuilder	person
+NotDesires	person	be impotent
+Desires	person	reward
+Desires	person	husband or wife
+Desires	person	sympathy
+Desires	person	20-20 vision
+Desires	person	be number 1
+IsA	neutral	person
+AtLocation	blood	person
+NotDesires	person	shit
+Desires	person	positive attention from others
+NotDesires	person	suffer with pain
+IsA	crab	person
+IsA	self	person
+Desires	person	others to be content
+NotDesires	person	have heart attack
+IsA	worker	person
+Desires	person	be able to read
+IsA	subject	person
+PartOf	right ear	person
+Desires	person	good car
+Desires	person	adoration
+NotDesires	person	be obese
+IsA	modern	person
+NotDesires	person	burn his hand
+IsA	butler	person
+CapableOf	person	wait for while
+Desires	person	accomplish
+Desires	person	comfortable bed
+CapableOf	person	step out
+Desires	person	procrastinate
+Desires	person	go home
+Desires	person	happy family
+Desires	person	have someone to hold
+NotDesires	person	get in car accident
+IsA	survivor	person
+CapableOf	person	rest in bed
+Desires	person	perfect world
+IsA	suspect	person
+Desires	person	stay alive
+Desires	person	time to rest
+Desires	person	connection and vital psychological well-being
+IsA	fanatic	person
+Desires	person	mankind to explore universe
+NotDesires	person	disappointment
+NotDesires	person	fail test
+NotDesires	person	migraine
+IsA	innocent	person
+Desires	person	fair trial
+IsA	banker	person
+Desires	person	have choice
+Desires	person	freedom from want
+CapableOf	person	cup his hand
+IsA	alcoholic	person
+NotDesires	person	be unpopular
+Desires	person	know truth
+Desires	person	recover from nervous breakdown
+RelatedTo	woman	person
+RelatedTo	i	person
+RelatedTo	age	person
+RelatedTo	daughter	person
+RelatedTo	lady	person
+RelatedTo	minister	person
+RelatedTo	speaker	person
+RelatedTo	peasant	person
+RelatedTo	janitor	person
+RelatedTo	president	person
+RelatedTo	another	person
+RelatedTo	musician	person
+RelatedTo	customer	person
+NotDesires	person	discord
+IsA	young person	person
+CapableOf	person	do nothing
+IsA	nazi	person
+NotDesires	person	be suicidal
+NotDesires	person	fatigue
+CapableOf	person	report crime
+IsA	sister	person
+IsA	volunteer	person
+RelatedTo	sucker	person
+CapableOf	person	point gun at someone
+Desires	person	cable modem
+RelatedTo	son of god	person
+IsA	stag	person
+Desires	person	coffee
+Desires	person	novelty
+NotDesires	person	be put down
+NotDesires	person	bad weather
+Desires	person	total honesty
+RelatedTo	man	person
+NotDesires	person	cut themselves
+CapableOf	person	kiss friend
+NotDesires	person	be meaningless
+Desires	person	boadband internet access
+HasA	person	mouth
+NotDesires	person	sprain ankle
+Desires	person	anything new
+RelatedTo	person	man
+Desires	person	clear vision
+NotDesires	person	crash
+NotDesires	person	lose child
+Desires	person	get fresh air
+NotDesires	person	be hungrey
+CapableOf	person	talk on phone
+NotDesires	person	poison ivy
+IsA	baker	person
+Desires	person	self-gratification
+Desires	person	computer
+NotDesires	person	be in abusive relationship
+NotDesires	person	be free
+CapableOf	person	throw fit
+Desires	person	alot
+NotDesires	person	turmoil
+CapableOf	person	try to learn
+IsA	lesbian	person
+NotDesires	person	feel unattractive
+Desires	person	recognition of their own importance
+NotDesires	person	worry
+Desires	person	sanity
+AtLocation	voice	person
+IsA	terrorist	person
+NotDesires	person	be hatet
+CapableOf	person	turn knob
+NotDesires	person	cause pain
+Desires	person	eat cereal
+RelatedTo	fishmonger	person
+CapableOf	person	land plane
+NotDesires	person	twist ankle
+CapableOf	person	wave hello or goodbye
+Desires	person	closure
+Desires	person	become famous
+Desires	person	listen to loud music
+Desires	person	hamburger
+NotDesires	person	be sad all time
+Desires	person	have good skin
+Desires	person	nice hug
+PartOf	person	humanity
+CapableOf	person	lay down
+NotDesires	person	get sunburn
+Desires	person	interaction
+IsA	kenny	person
+IsA	champion	person
+NotDesires	person	crap for present
+Desires	person	burger king
+IsA	prostitute	person
+NotDesires	person	disgrace
+IsA	hippy	person
+Desires	person	live without government oversite
+RelatedTo	widow	person
+AtLocation	person	zoo
+IsA	celebrity	person
+Desires	person	gold
+IsA	islamist	person
+Desires	person	art
+Desires	person	take shower
+NotDesires	person	oversleep
+NotDesires	person	fart
+NotDesires	person	filth
+IsA	drug dealer	person
+CapableOf	person	try to solve puzzle
+Desires	person	be fullfilled
+Desires	person	lot of fun
+CapableOf	person	gift person with money
+CapableOf	person	trip person
+NotDesires	person	life to be tedious
+IsA	passenger	person
+Desires	person	fresh air
+Desires	person	health insurance
+Desires	person	flex time
+NotDesires	person	out of date food
+Desires	person	share knowledge
+Desires	person	know how to read
+Desires	person	strength
+Desires	person	fair wage
+Desires	person	pet cat
+Desires	person	more for less
+IsA	jew	person
+RelatedTo	youth	person
+CapableOf	person	fall asleep
+NotDesires	person	be hit by bus
+RelatedTo	son	person
+Desires	person	be patient
+NotDesires	person	sit in dark
+NotDesires	person	solitude
+IsA	homeless person	person
+Desires	person	have alot of sex
+IsA	postal worker	person
+NotDesires	person	be bad
+Desires	person	good pet
+Desires	person	create artificial intelligence
+IsA	modernist	person
+Desires	person	good breakfast
+Desires	person	drive train
+NotDesires	person	die in vain
+CapableOf	person	rest on sofa
+CapableOf	person	hand knife to someone
+IsA	artist	person
+NotDesires	person	be afraid of dark
+HasA	person	nose
+NotDesires	person	mouldy bread
+CapableOf	person	drink coffee
+NotDesires	person	theft
+NotDesires	person	drive recklessly
+IsA	traveller	person
+Desires	person	mom
+IsA	pornstar	person
+RelatedTo	legal entity	person
+RelatedTo	self	person
+CapableOf	person	answer telephone
+UsedFor	person	start fight
+NotDesires	person	be smelly
+NotDesires	person	ebola
+NotDesires	person	be criminal
+CapableOf	person	call friend
+NotDesires	person	their spouse to die
+Desires	person	play ball
+RelatedTo	hobo	person
+CapableOf	person	go insane
+Desires	person	climb mountain
+CapableOf	person	play flute
+CapableOf	person	smell food
+CapableOf	person	form opinion
+Desires	person	show off
+RelatedTo	extrovert	person
+Desires	person	spouse
+RelatedTo	ice skater	person
+NotDesires	person	do housework
+Desires	person	cup of tea
+Desires	person	explore space
+CapableOf	person	suffer from disease
+Desires	person	be leader
+Desires	person	water to drink
+IsA	teacher	person
+NotDesires	person	fall from high place
+Desires	person	save world
+IsA	liberal	person
+NotDesires	person	eat rotten apple
+IsA	grandmother	person
+Desires	person	perform
+Desires	person	mind-blowing sex
+NotDesires	person	cougar
+IsA	wiccan	person
+Desires	person	power over others
+IsA	postmaster	person
+Desires	person	self respect
+NotDesires	person	suffer pain
+Desires	person	see clearly
+NotDesires	person	their computer to brake
+CapableOf	person	give money to charity
+NotDesires	person	their cat to scratch them
+IsA	researcher	person
+Desires	person	magic
+RelatedTo	employer	person
+IsA	observer	person
+NotDesires	person	sore back
+Desires	person	contribute to world peace
+IsA	mountain climber	person
+Desires	person	sunny day
+Desires	person	have fortune
+IsA	parent	person
+CapableOf	person	throw party
+NotDesires	person	sore throat
+NotDesires	person	fairness
+Desires	person	acheivement
+NotDesires	person	miss someone
+NotDesires	person	junk mail
+Desires	person	good house
+NotDesires	person	vermin in house
+CapableOf	person	sign document
+Desires	person	express gratitude
+Desires	person	jewellery
+Desires	person	white cheese and red wine
+Desires	person	lose control
+Desires	person	future
+RelatedTo	straight	person
+NotDesires	person	house fire
+NotDesires	person	spontaneously combust
+Desires	person	go fast
+Desires	person	lemonade
+RelatedTo	constitution	person
+Desires	person	convertible
+RelatedTo	sort	person
+NotDesires	person	pest
+CapableOf	person	play hide and seek
+RelatedTo	introvert	person
+RelatedTo	pleasure	person
+Desires	person	be on time
+Desires	person	get in accident
+Desires	person	nice hair
+NotDesires	person	miss appointment
+NotDesires	person	fatal disease
+NotDesires	person	unwanted surprise
+NotDesires	person	more government
+CapableOf	person	arm bomb
+Desires	person	mail
+NotDesires	person	drink
+RelatedTo	person	plant
+NotDesires	person	listen to loud music
+RelatedTo	dummy	person
+NotDesires	person	unattractive mate
+IsA	kevin bacon	person
+RelatedTo	hot	person
+NotDesires	person	to
+NotDesires	person	inconvenience
+CapableOf	person	express love
+Desires	person	teach others
+IsA	traveller	person
+Desires	person	safty
+NotDesires	person	obey without question
+RelatedTo	prosecutor	person
+CapableOf	person	battle cancer
+RelatedTo	vietnamese	person
+NotDesires	person	break arm
+NotDesires	person	grape juice on his shirt
+IsA	german	person
+Desires	person	feel warm
+Desires	person	more of everthing
+NotDesires	person	arthritis
+RelatedTo	slut	person
+IsA	dad	person
+NotDesires	person	feel stress
+NotDesires	person	bld complexion
+Desires	person	find simple solution
+NotDesires	person	hit his head
+IsA	economist	person
+NotDesires	person	be victim of gossip
+Desires	person	value
+NotDesires	person	hide
+Desires	person	have pda
+IsA	cancer	person
+Desires	person	worldwide peace and love
+Desires	person	be different
+Desires	person	happines
+Desires	person	massage
+NotDesires	person	smash their finger with hammer
+Desires	person	be in chareg
+CapableOf	person	fail
+IsA	sexist	person
+Desires	person	be attractive to opposite sex
+Desires	person	motivation
+RelatedTo	burn out	person
+Desires	person	build
+HasA	person	head
+Desires	person	integrity
+NotDesires	person	wooden leg
+CapableOf	person	need to do something
+Desires	person	bliss
+NotDesires	person	have hair in their food
+NotDesires	person	go to work on monday
+NotDesires	person	get snake bite
+Desires	person	conversation
+Desires	person	see art
+NotDesires	person	dog
+CapableOf	person	play saxaphone
+RelatedTo	salesperson	person
+CapableOf	person	order meal
+Desires	person	suger
+NotDesires	person	age
+NotDesires	person	pressure
+IsA	runner	person
+IsA	bear	person
+IsA	homophobe	person
+Desires	person	mental challenge
+CapableOf	person	clear table
+CapableOf	person	eat vegetable
+NotDesires	person	have ear-ache
+Desires	person	get ahead
+RelatedTo	infinite	person
+CapableOf	person	grow plant
+NotDesires	person	botulism
+IsA	guest	person
+IsA	virgo	person
+NotDesires	person	catastrophe
+NotDesires	person	hold up line
+Desires	person	forgiveness
+Desires	person	explain
+Desires	person	have healthy life
+RelatedTo	fisherman	person
+NotDesires	person	lose track of time
+IsA	norwegian	person
+RelatedTo	personal computer	person
+RelatedTo	presenter	person
+Desires	person	tto have knowledge
+Desires	person	sugar
+NotDesires	person	rash
+CapableOf	person	leave home
+Desires	person	loyalty
+Desires	person	good sense of humor
+RelatedTo	iceberg	person
+NotDesires	person	damp house
+NotDesires	person	work only for pay
+Desires	person	opportunity
+CapableOf	person	learn to read
+Desires	person	breakdance
+CapableOf	person	even odds
+NotDesires	person	trust others
+Desires	person	not to die
+Desires	person	good entertainment
+IsA	geologist	person
+IsA	barack obama	person
+IsA	expert	person
+Desires	person	live good life
+NotDesires	person	run out of gas
+NotDesires	person	have sore throat
+CapableOf	person	age gracefully
+RelatedTo	article	person
+IsA	rapist	person
+CapableOf	person	rest in shade
+RelatedTo	booby	person
+NotDesires	person	listen to rap music
+NotDesires	person	read same book twice
+Desires	person	warm bed
+Desires	person	haircut
+Desires	person	great weather over long weekend
+NotDesires	person	die from cancer
+AtLocation	person	conference
+Desires	person	work at home
+CapableOf	person	battle person
+IsA	landlord	person
+IsA	fan	person
+Desires	person	life with purpose
+NotDesires	person	make same mistake twice
+NotDesires	person	negative energy
+IsA	racist	person
+NotDesires	person	be embaresed
+IsA	man	person
+IsA	athlete	person
+NotDesires	person	moldy food
+NotDesires	person	difficulty
+NotDesires	person	little money
+IsA	traveller	person
+CapableOf	person	buy item
+CapableOf	person	journey to country
+Desires	person	swim
+IsA	projectionist	person
+NotDesires	person	g
+Desires	person	tobacco
+AtLocation	characteristic	person
+NotDesires	person	bad complexion
+Desires	person	their mate to notice them
+CapableOf	person	sign agreement
+Desires	person	sleep soundly
+CapableOf	person	throw frisbee
+Desires	person	be free of fear
+Desires	person	nice haircut
+UsedFor	person	do job
+CapableOf	person	drop ball
+NotDesires	person	be square
+NotDesires	person	get black eye
+Desires	person	nice weather
+Desires	person	be able to express themself freely
+Desires	person	clarity
+Desires	person	good posture
+CapableOf	person	fight injustice
+IsA	creator	person
+Desires	person	beautiful day
+Desires	person	way to move
+RelatedTo	resident	person
+CapableOf	person	wash dog
+Desires	person	be hero
+NotDesires	person	commit suicide
+IsA	capricorn	person
+CapableOf	person	cross bridge
+Desires	person	go to zoo
+Desires	person	enjoy their work
+CapableOf	person	settle argument
+CapableOf	person	drop hint
+NotDesires	person	experience death
+NotDesires	person	go crazy
+NotDesires	person	touch gross stuff
+NotDesires	person	be pregnant
+CapableOf	that person	hill climb
+NotDesires	person	lose their lover
+CapableOf	person	think about future
+RelatedTo	rare bird	person
+CapableOf	person	even score
+CapableOf	person	look through window
+IsA	author	person
+CapableOf	person	work at desk
+NotDesires	person	do laundry
+IsA	leader	person
+CapableOf	person	shout word
+Desires	person	fly kite
+NotDesires	person	make others angry
+Desires	person	porn
+NotDesires	person	dirty cat
+NotDesires	person	throw up
+NotDesires	person	be by themselves
+Desires	person	goal to achieve
+IsA	leprechaun	person
+RelatedTo	emotion	person
+NotDesires	person	slip and fall on ice
+NotDesires	person	malaria
+NotDesires	person	expose himself to ridicule
+NotDesires	person	death penalty
+IsA	runner	person
+IsA	maltese	person
+Desires	person	birthday party
+NotDesires	person	chop off their finger
+NotDesires	person	be in dark
+IsA	asian	person
+NotDesires	person	desease
+NotDesires	person	eat yucky food
+NotDesires	person	flat soda
+UsedFor	person	friend
+NotDesires	person	sing out of tune
+CapableOf	person	drown in water
+RelatedTo	soul	person
+NotDesires	person	speak in public
+NotDesires	person	jump off cliff
+CapableOf	person	talk on telephone
+Desires	person	drink wine
+NotDesires	person	live in constant pain
+NotDesires	person	police brutaility
+RelatedTo	sage	person
+RelatedTo	institution	person
+CapableOf	person	laugh about joke
+NotDesires	person	be naughty
+HasProperty	person	stupid
+NotDesires	person	jungle
+NotDesires	person	traffic congestion
+Desires	person	learn to swim
+CapableOf	person	make sense
+Desires	person	save environment
+RelatedTo	undesirable	person
+RelatedTo	nomad	person
+RelatedTo	guy	person
+Desires	person	proof
+RelatedTo	mule	person
+Desires	person	luxury
+NotDesires	person	nervous breakdown
+AtLocation	jacket	person
+NotDesires	person	plague
+CapableOf	person	value relationship
+NotDesires	person	addiction
+CapableOf	person	experience life
+RelatedTo	pinch	person
+Desires	person	learn about world
+NotDesires	person	garbage
+AtLocation	person	demonstration
+NotDesires	person	virus
+AtLocation	person	fairy tale
+IsA	racist	person
+Desires	person	breakfast
+AtLocation	contraceptive device	person
+Desires	person	graduate from school
+Desires	person	life and liberty
+IsA	commuter	person
+RelatedTo	advertisement	person
+Desires	person	sucseed
+NotDesires	person	their lamp to fall over
+Desires	person	war
+NotDesires	person	find worm in their apple
+Desires	person	nice view from their window
+RelatedTo	concession	person
+Desires	person	orgasm
+IsA	intellect	person
+Desires	person	win medal
+RelatedTo	ten	person
+NotDesires	person	annoy others
+Desires	person	cup of coffee
+Desires	person	salvation
+NotDesires	person	be crazy
+Desires	person	be
+NotDesires	person	cheap cigar
+RelatedTo	target	person
+NotDesires	person	burp in public
+NotDesires	person	argument
+IsA	philanthropist	person
+Desires	person	sing in choir
+NotDesires	person	fail at their job
+CapableOf	person	go into room
+RelatedTo	fool	person
+Desires	person	some variety but consistency as well
+IsA	yemen	person
+CapableOf	person	race car
+IsA	employee	person
+IsA	athlete	person
+RelatedTo	butcher	person
+NotDesires	person	tragedy
+CapableOf	person	breathe
+Desires	person	personal fulfillment
+IsA	editor	person
+Desires	person	experiment
+CapableOf	person	voice concern
+Desires	person	upper hand
+CapableOf	person	sign letter
+RelatedTo	genius	person
+Desires	person	pornography
+NotDesires	person	get enema
+Desires	person	plenty of sleed
+IsA	developer	person
+CapableOf	person	wash car
+NotDesires	person	fail class in school
+NotDesires	person	be hit in face
+IsA	leo	person
+IsA	mexican	person
+NotDesires	person	be without knowledge
+IsA	fisherman	person
+Desires	person	have vacation some time
+IsA	slave	person
+NotDesires	person	study economics
+Desires	person	experience life
+IsA	mentor	person
+IsA	religious leader	person
+NotDesires	person	fall from tree
+NotDesires	person	go to hospital
+NotDesires	person	feel embarassed
+CapableOf	person	eat dinner
+Desires	person	raise
+RelatedTo	person	penis
+IsA	liberal	person
+IsA	scout	person
+NotDesires	person	apathy
+Desires	person	hospitality
+NotDesires	person	fail class
+Desires	person	meaningful life
+IsA	patriot	person
+RelatedTo	iraqi	person
+Desires	person	find somebody
+IsA	visitor	person
+Desires	person	enough
+NotDesires	person	smell
+Desires	person	strong body
+NotDesires	person	his boat to crash
+Desires	person	keen sense of smell
+IsA	kid	person
+Desires	person	think
+IsA	vegan	person
+CapableOf	person	seed lawn
+IsA	vegetarian	person
+Desires	person	land
+Desires	person	be free from oppression
+Desires	person	cut paper
+CapableOf	person	notice problem
+IsA	siamese	person
+Desires	person	like their job
+NotDesires	person	dead end job
+NotDesires	person	their team to lose
+Desires	person	love and respect
+Desires	person	peace and harmony
+CapableOf	person	hurry home
+IsA	writer	person
+Desires	person	sound sleep
+NotDesires	person	diabetes
+CapableOf	person	amount to nothing
+NotDesires	person	lose confidence
+CapableOf	person	laugh at clown
+CapableOf	person	ball twine
+IsA	liar	person
+Desires	person	everything to go smoothly
+RelatedTo	divider	person
+CapableOf	person	ride train
+Desires	person	convenience
+NotDesires	person	jail time
+IsA	person	human
+CapableOf	person	spring upwards on demand
+Desires	person	live healthy life
+RelatedTo	it	person
+NotDesires	person	monotony
+NotDesires	person	overeat
+RelatedTo	weight gain	person
+NotDesires	person	be unfulfilled
+NotDesires	person	tire blow out
+NotDesires	person	be unintelligent
+RelatedTo	individual	person
+Desires	person	keep clean
+AtLocation	person	desk
+NotDesires	person	know truth sometimes
+NotDesires	person	teal car
+Desires	person	good body
+NotDesires	person	malice
+CapableOf	person	page person
+NotDesires	person	cause someone else pain
+NotDesires	person	bee inferior
+NotDesires	person	waste time
+Desires	person	thing their way
+CapableOf	person	feel ugly
+IsA	conservative	person
+Desires	person	snake
+NotDesires	person	struggle
+NotDesires	person	gamble
+NotDesires	person	tofu
+NotDesires	person	trouble with boss
+Desires	person	good cup of coffee
+IsA	senator	person
+IsA	iranian	person
+NotDesires	person	thermonuclear war
+NotDesires	person	have diabetes
+NotDesires	person	be too heavy
+CapableOf	person	water garden
+CapableOf	person	share opinion
+IsA	worker	person
+NotDesires	person	break tooth
+Desires	person	eat pizza
+IsA	passenger	person
+CapableOf	person	leap
+Desires	person	gain respect
+CapableOf	person	act kindly
+Desires	person	good music
+NotDesires	person	bad vision
+IsA	gambler	person
+NotDesires	person	remorse
+CapableOf	person	experience pleasure
+CapableOf	person	wet bed
+RelatedTo	group	person
+CapableOf	person	catch fish
+Desires	person	gift
+CapableOf	person	ring doorbell
+CapableOf	person	own animal
+IsA	vietnamese	person
+NotDesires	person	forget to go to work
+Desires	person	prosperity
+IsA	terrorist	person
+CapableOf	person	head committee
+RelatedTo	overcrowd	person
+CapableOf	person	experience pain
+RelatedTo	nobody	person
+CapableOf	person	machine part
+NotDesires	person	bad boss
+IsA	architect	person
+CapableOf	person	pull cart
+NotDesires	person	moldy bread
+Desires	person	identity
+RelatedTo	rooster	person
+NotDesires	person	beat up car
+AtLocation	person	water cooler
+NotDesires	person	pay for wi-fi
+NotDesires	person	despair
+RelatedTo	stick	person
+NotDesires	person	embarrassment
+CapableOf	person	drive tractor
+NotDesires	person	slip
+CapableOf	person	gain knowledge
+RelatedTo	symptom	person
+Desires	person	get it
+AtLocation	person	universe
+NotDesires	person	authority
+NotDesires	person	hurt themselves
+NotDesires	person	ripoff
+NotDesires	person	dry rot
+RelatedTo	cue ball	person
+Desires	person	others to think well of them
+Desires	person	to
+IsA	tan	person
+Desires	person	get away from work
+CapableOf	person	eat cheese
+Desires	person	observe
+Desires	person	snow in winter
+RelatedTo	assumption	person
+CapableOf	person	give present
+Desires	person	comfort from others
+NotDesires	person	drought
+NotDesires	person	small and cheap car
+CapableOf	person	listen to radio
+NotDesires	person	loss
+NotDesires	person	starvation
+AtLocation	person	theater
+NotDesires	person	back pain
+Desires	person	have peace in their life
+IsA	driver	person
+Desires	person	order
+NotDesires	person	be humilliated
+Desires	person	others to understand
+CapableOf	person	absorb moisture
+NotDesires	person	bee in too hot weather
+Desires	person	passion
+Desires	person	be pretty
+CapableOf	person	bicycle to school
+IsA	mountain climber	person
+RelatedTo	individual	person
+Desires	person	comfort food
+NotDesires	person	break mirror
+IsA	bull	person
+PartOf	arm	person
+CapableOf	person	wear sweater
+Desires	person	self-realization
+Desires	person	be sincere
+RelatedTo	scandal	person
+IsA	farmer	person
+CapableOf	person	work hard
+RelatedTo	big boy	person
+CapableOf	person	own object
+IsA	student	person
+IsA	aquarius	person
+IsA	citizen	person
+CapableOf	person	follow story
+Desires	person	calm mind
+RelatedTo	louse	person
+AtLocation	person	show
+CapableOf	person	consider idea
+CapableOf	person	meet friend for lunch
+Desires	person	care
+IsA	bomber	person
+Desires	person	drive
+RelatedTo	intellect	person
+NotDesires	person	bad service at restaurant
+Desires	person	courage
+Desires	person	reliability
+UsedFor	person	have sex
+IsA	communist	person
+CapableOf	person	captain boat
+NotDesires	person	feel hungry
+CapableOf	person	hear voice
+Desires	person	be busy
+UsedFor	person	labor
+RelatedTo	explosive	person
+NotDesires	person	bull droppings
+Desires	person	independence
+NotDesires	person	famine
+NotDesires	person	become poor
+NotDesires	person	their government to be corrupt
+Desires	person	revenge for serious wrong
+AtLocation	person	synagogue
+NotDesires	person	leprosy
+CapableOf	person	stand upright
+IsA	niece	person
+CapableOf	person	catch bass
+CapableOf	person	suffer pain
+RelatedTo	certificate	person
+CapableOf	person	side with another person
+IsA	innovator	person
+NotDesires	person	rotten fruit
+NotDesires	person	scald themselves
+Desires	person	have good eyesight
+NotDesires	person	feel unwanted
+Desires	person	time alone
+Desires	person	patience
+IsA	idiot	person
+CapableOf	person	get sick
+CapableOf	person	forward e-mail to friend
+IsA	conservative	person
+IsA	public servant	person
+Desires	person	grow beard
+Desires	person	commitment from others
+IsA	pedophile	person
+CapableOf	person	eat shrimp for dinner
+RelatedTo	anybody	person
+CapableOf	person	hang picture
+IsA	protester	person
+CapableOf	person	drop thing
+Desires	person	be pregnant
+IsA	creator	person
+NotDesires	person	be scapegoat
+Desires	person	self confidence
+IsA	philosopher	person
+NotDesires	person	sorrow
+NotDesires	person	stub their toe in dark
+Desires	person	weekend to arrive
+CapableOf	person	say hello
+NotDesires	person	razor burn
+RelatedTo	anyone	person
+IsA	foreigner	person
+IsA	homophobe	person
+NotDesires	person	broke leg
+CapableOf	person	feel lonely
+NotDesires	person	feel hopeless
+CapableOf	person	offer help
+NotDesires	person	hip surgery
+IsA	chairperson	person
+NotDesires	person	terror
+CapableOf	person	feel angry
+IsA	lunatic	person
+IsA	aries	person
+IsA	patient	person
+AtLocation	wound	person
+IsA	miner	person
+NotDesires	person	indigestion
+Desires	person	longevity
+Desires	person	love and security
+NotDesires	person	heresy
+MadeOf	person	water
+Desires	person	enlightment
+CapableOf	person	spot error
+NotDesires	person	flame
+IsA	consumer	person
+CapableOf	person	own property
+Desires	person	save earth
+AtLocation	person	family
+AtLocation	person	space shuttle
+CapableOf	person	spread peanut butter
+IsA	alcoholic	person
+CapableOf	person	weather storm
+IsA	scorpio	person
+CapableOf	person	make cake
+Desires	person	commitment
+CapableOf	person	control computer
+Desires	person	turtle
+CapableOf	person	judge you
+Desires	person	fitness
+RelatedTo	tithe	person
+CapableOf	person	win race
+RelatedTo	silly	person
+NotDesires	person	lose contest
+IsA	hacker	person
+RelatedTo	opinion	person
+NotDesires	person	anthrax
+IsA	apprentice	person
+NotDesires	person	their arch rival to win
+NotDesires	person	lot of noise
+NotDesires	person	get ill
+CapableOf	person	fail task
+Desires	person	secure home
+NotDesires	person	listen
+IsA	loser	person
+CapableOf	person	lift object
+CapableOf	person	be smelly
+NotDesires	person	lose lot of money
+IsA	hero	person
+IsA	socialist	person
+Desires	person	love and company
+Desires	person	fresh water to drink
+IsA	pedestrian	person
+NotDesires	person	splinter in their finger
+NotDesires	person	be unprepared for exam
+NotDesires	person	their house to catch on fire
+Desires	person	look around
+NotDesires	person	be slob
+IsA	worker	person
+Desires	person	ridicule
+NotDesires	person	mess up their hair
+RelatedTo	name	person
+NotDesires	person	monday to come
+IsA	prisoner	person
+RelatedTo	person	shoot
+NotDesires	person	slow access to net
+IsA	gemini	person
+RelatedTo	you	person
+NotDesires	person	power
+Desires	person	mystery
+Desires	person	celebrate
+NotDesires	person	be timid
+NotDesires	person	bad day
+NotDesires	person	be selfish
+NotDesires	person	stand in long queue
+NotDesires	person	mind control
+CapableOf	person	ride in hot air balloon
+NotDesires	person	fall off
+NotDesires	person	be in solitude
+RelatedTo	judge	person
+CapableOf	person	position object
+PartOf	mind	person
+NotDesires	person	aggravation
+IsA	taurus	person
+NotDesires	person	hair in their food
+NotDesires	person	overspend
+CapableOf	person	catch fish in net
+Desires	person	stretch
+CapableOf	person	sign check
+IsA	greek	person
+IsA	hunter	person
+IsA	employee	person
+Desires	person	jewelery
+NotDesires	person	weekend to end
+CapableOf	person	work at home
+RelatedTo	prescription	person
+CapableOf	person	cast shadow
+CapableOf	person	spring out of box
+Desires	person	good sex life
+NotDesires	person	forget important appointment
+CapableOf	person	sit on floor
+Desires	person	be full
+CapableOf	person	talk shit
+NotDesires	person	earth to tremble
+CapableOf	person	come home
+CapableOf	person	visit museum
+RelatedTo	person	body
+IsA	smoker	person
+HasA	people	person
+NotDesires	person	envy
+NotDesires	person	be alcoholic
+IsA	iraqi	person
+NotDesires	person	night blindness
+Desires	person	another prompt
+RelatedTo	zombie	person
+Desires	person	love another
+Desires	person	diversity
+IsA	spy	person
+NotDesires	person	blizzard
+NotDesires	person	feel like idiot
+CapableOf	person	eat animal
+RelatedTo	steer	person
+CapableOf	person	pick fruit
+Desires	person	sleep undisturbed
+Desires	person	garlic
+CapableOf	person	stand alone
+NotDesires	person	their child to suffer
+IsA	middle class	person
+IsA	person	human
+Desires	person	safe place to live
+IsA	baseball player	person
+NotDesires	person	beauty
+NotDesires	person	others to be angry at him
+NotDesires	person	be unsuccessful
+NotDesires	person	fine
+IsA	giant	person
+RelatedTo	parent	person
+Desires	person	good salary
+IsA	liberalism	person
+Desires	person	nicotine
+NotDesires	person	dangerous job
+NotDesires	person	sicness
+CapableOf	person	bank at atm
+IsA	human	person
+RelatedTo	surname	person
+NotDesires	person	confrontation
+NotDesires	person	live alone
+IsA	vegan	person
+CapableOf	person	leave room
+IsA	bob	person
+NotDesires	person	asbestos
+NotDesires	person	krazy glue in their hair
+Desires	person	good vision
+Desires	person	partner
+Desires	person	go on holiday
+Desires	person	speed
+IsA	spanish	person
+Desires	person	inspiration
+IsA	veterinarian	person
+NotDesires	person	bad skin
+AtLocation	hairdresser chair	person
+Desires	person	fresh coffee in morning
+Desires	person	fair society
+NotDesires	person	everything they want
+CapableOf	person	hit person
+CapableOf	person	turn around
+CapableOf	person	bicycle uphill
+NotDesires	person	work on weekend
+NotDesires	person	flood
+IsA	follower	person
+NotDesires	person	radioactive food
+RelatedTo	challenge	person
+RelatedTo	personal	person
+NotDesires	person	become invalid
+NotDesires	person	have their appendix out without anasthetic
+RelatedTo	everyone	person
+CapableOf	person	feel proud
+NotDesires	person	unattractive partner
+NotDesires	person	papercut
+NotDesires	person	walk
+IsA	judge	person
+NotDesires	person	warm pepsi
+NotDesires	person	coal
+Desires	person	go to france
+NotDesires	person	numbness
+NotDesires	person	get stick in eye
+CapableOf	person	eat fruit
+NotDesires	person	constipation
+IsA	religious leader	person
+IsA	moviegoer	person
+IsA	something you find downstairs	person
+HasA	person	hair on their head
+NotDesires	person	lose control of his life
+Desires	person	sunshine
+NotDesires	person	polution
+IsA	african	person
+Desires	person	giraffe
+CapableOf	person	lend money
+NotDesires	person	drop something heavy on their foot
+AtLocation	drop of blood	person
+Desires	person	good vacation
+Desires	person	laugh out loud
+NotDesires	person	overpay
+RelatedTo	mythology	person
+Desires	person	be stable
+IsA	immigrant	person
+CapableOf	person	measure size
+CapableOf	person	borrow book
+RelatedTo	noun	person
+RelatedTo	person	mind
+NotDesires	person	wait in long line
+Desires	person	medium rare steak
+NotDesires	person	fall down well
+Desires	person	quality
+CapableOf	person	learn to swim
+RelatedTo	asian	person
+RelatedTo	finger	person
+CapableOf	person	train dog
+CapableOf	person	sprint
+NotDesires	person	bad eyesight
+UsedFor	person	social interaction
+CapableOf	person	eat spaghetti
+RelatedTo	student	person
+Desires	person	get education
+NotDesires	person	dirt
+Desires	person	spiritual fulfillment
+Desires	person	room to spread out
+Desires	person	thirty hour work week
+Desires	person	stable relationship
+NotDesires	person	eat raw meat
+Desires	person	have good memory
+CapableOf	person	chair board
+Desires	person	evidence
+NotDesires	person	be beat unconscious
+Desires	person	comfortable bed at night
+Desires	person	lover
+RelatedTo	capitalist	person
+NotDesires	person	run in her hose
+Desires	person	have their day in court
+CapableOf	person	welcome change
+CapableOf	person	ship package
+NotDesires	person	bad hair cut
+Desires	person	create
+Desires	person	more
+CapableOf	person	kayak
+CapableOf	person	need social acceptance
+NotDesires	person	lose argument
+IsA	teacher	person
+IsA	millionaire	person
+IsA	officer	person
+Desires	person	know god
+IsA	chinese	person
+Desires	person	face his accuser
+CapableOf	person	travel to europe
+CapableOf	person	lie down
+NotDesires	person	feel undesirable
+CapableOf	person	lose game
+NotDesires	person	tho be poor
+Desires	person	good deal
+IsA	canadian	person
+RelatedTo	dispatcher	person
+Desires	person	delicious food and good company
+Desires	person	escape
+CapableOf	person	board boat
+CapableOf	person	journey far
+RelatedTo	robot	person
+NotDesires	person	be greedy
+CapableOf	person	climb mountain
+Desires	person	eternal salvation
+NotDesires	person	sufer
+IsA	swedish	person
+RelatedTo	ninja	person
+CapableOf	person	like loud music
+NotDesires	person	be imprisioned
+CapableOf	person	heat food
+NotDesires	person	sneeze
+NotDesires	person	noise
+Desires	person	accurate watch
+NotDesires	person	their computer to malfunction
+CapableOf	person	feel sorry
+NotDesires	person	friend to die
+IsA	computer user	person
+CapableOf	person	lose weight to be more healthy
+Desires	person	perfect life
+Desires	person	see growth in thier career
+NotDesires	person	all hell to break loose
+CapableOf	person	stock pantry
+RelatedTo	body	person
+NotDesires	person	spend holiday alone
+Desires	person	good education
+IsA	pedophile	person
+HasProperty	person	one
+IsA	sexist	person
+Desires	person	bagel
+Desires	person	education
+RelatedTo	commuter	person
+IsA	spy	person
+Desires	person	central heat
+Desires	person	faith
+IsA	gambler	person
+NotDesires	person	be bum
+Desires	person	understand themself
+CapableOf	person	swim in water
+CapableOf	person	speak up
+RelatedTo	hen	person
+Desires	person	accomplish goal
+Desires	person	recover from illness
+NotDesires	person	bark
+Desires	person	read good book
+Desires	person	professional satisfaction
+NotDesires	person	get into car accident
+NotDesires	person	mad cow disease
+Desires	person	tv
+Desires	person	enough time
+Desires	person	have sparetime
+IsA	bonnie tyler	person
+NotDesires	person	feel cold
+RelatedTo	force	person
+RelatedTo	number	person
+CapableOf	person	try something new
+CapableOf	person	join team
+Desires	person	air
+NotDesires	person	perish
+HasProperty	person	late
+NotDesires	person	body oder
+IsA	doctor	person
+IsA	graduate	person
+RelatedTo	nerd	person
+IsA	rider	person
+Desires	person	something sweet
+CapableOf	person	walk away
+NotDesires	person	bad advice
+RelatedTo	citizen	person
+UsedFor	person	work for you
+NotDesires	person	feel humiliation
+RelatedTo	student	person
+RelatedTo	citizen	person
+RelatedTo	candidate	person
+RelatedTo	person	one
+RelatedTo	birthday	person
+RelatedTo	portrait	person
+RelatedTo	mother	person
+RelatedTo	giant	person
+RelatedTo	hunter	person
+RelatedTo	patient	person
+RelatedTo	door	person
+RelatedTo	voice	person
+RelatedTo	king	person
+RelatedTo	coach	person
+RelatedTo	individual	person
+RelatedTo	hermit	person
+RelatedTo	magician	person
+RelatedTo	introduce	person
+RelatedTo	principal	person
+RelatedTo	dad	person
+RelatedTo	guest	person
+RelatedTo	person	general
+RelatedTo	ruler	person
+RelatedTo	singer	person
+RelatedTo	fool	person
+RelatedTo	youth	person
+RelatedTo	adventurer	person
+IsA	jasmine	person
+IsA	george	person
+IsA	adam sandler	person
+IsA	walt disney	person
+IsA	neil armstrong	person
+IsA	sandy	person
+IsA	bob dylan	person
+IsA	pierce brosnan	person
+IsA	seven	person
+IsA	ice cube	person
+IsA	ted williams	person
+IsA	michael flatley	person
+IsA	clarence darrow	person
+IsA	karl marx	person
+IsA	robert redford	person
+IsA	peter	person
+IsA	walter cronkite	person
+IsA	sting	person
+IsA	william gibson	person
+IsA	pontiac	person
+IsA	terry gilliam	person
+IsA	curveball	person
+IsA	indigo	person
+IsA	cher	person
+IsA	clint eastwood	person
+IsA	beaver	person
+IsA	sunny	person
+IsA	brad pitt	person
+IsA	amber	person
+IsA	kevin costner	person
+IsA	hacker	person
+IsA	roger moore	person
+IsA	director	person
+IsA	ram	person
+IsA	pilgrim	person
+IsA	ham	person
+IsA	david spade	person
+IsA	david lynch	person
+IsA	plato	person
+IsA	richard stallman	person
+IsA	job	person
+IsA	bay	person
+IsA	usher	person
+IsA	val kilmer	person
+RelatedTo	person	guy
+RelatedTo	adult	person
+RelatedTo	famous	person
+RelatedTo	giver	person
+RelatedTo	god	person
+RelatedTo	person	body
+RelatedTo	lap	person
+RelatedTo	crowd	person
+RelatedTo	kind	person
+RelatedTo	undergraduate	person
+RelatedTo	weight	person
+RelatedTo	home	person
+RelatedTo	person	two
+RelatedTo	person	animal
+RelatedTo	miner	person
+RelatedTo	traitor	person
+RelatedTo	person	face
+RelatedTo	thief	person
+RelatedTo	athlete	person
+RelatedTo	nomad	person
+RelatedTo	anybody	person
+RelatedTo	nurse	person
+RelatedTo	polish	person
+RelatedTo	general	person
+RelatedTo	person	everyone
+RelatedTo	person	male
+RelatedTo	tailor	person
+RelatedTo	robber	person
+RelatedTo	person	object
+RelatedTo	grocer	person
+RelatedTo	madman	person
+RelatedTo	my	person
+RelatedTo	driver	person
+RelatedTo	monk	person
+RelatedTo	short	person
+RelatedTo	person	name
+RelatedTo	slave	person
+RelatedTo	queen	person
+RelatedTo	relation	person
+RelatedTo	bright	person
+RelatedTo	brother	person
+RelatedTo	person	anyone
+RelatedTo	born	person
+RelatedTo	introduction	person
+RelatedTo	dance	person
+RelatedTo	politician	person
+RelatedTo	victim	person
+RelatedTo	sage	person
+RelatedTo	gentleman	person
+RelatedTo	person	primate
+RelatedTo	mechanic	person
+RelatedTo	person	female
+RelatedTo	chick	person
+RelatedTo	alone	person
+RelatedTo	date	person
+RelatedTo	angel	person
+RelatedTo	partner	person
+RelatedTo	destroyer	person
+RelatedTo	person	biped
+RelatedTo	jerk	person
+RelatedTo	person	big
+RelatedTo	person	brain
+RelatedTo	voter	person
+RelatedTo	cross	person
+RelatedTo	die	person
+RelatedTo	it	person
+RelatedTo	thing	person
+RelatedTo	self	person
+RelatedTo	fairy	person
+RelatedTo	grandfather	person
+RelatedTo	person	figure
+RelatedTo	shopper	person
+RelatedTo	visitor	person
+RelatedTo	scholar	person
+RelatedTo	climb	person
+RelatedTo	princess	person
+RelatedTo	foreigner	person
+RelatedTo	person	thing
+RelatedTo	person	like
+RelatedTo	officer	person
+RelatedTo	nun	person
+RelatedTo	figure	person
+RelatedTo	person	kid
+RelatedTo	tough	person
+RelatedTo	performer	person
+RelatedTo	swim	person
+RelatedTo	person	alive
+RelatedTo	spirit	person
+RelatedTo	drive	person
+RelatedTo	rich	person
+RelatedTo	face	person
+RelatedTo	person	others
+RelatedTo	sister	person
+RelatedTo	arbiter	person
+RelatedTo	live	person
+RelatedTo	painter	person
+RelatedTo	person	solitary
+RelatedTo	cook	person
+RelatedTo	secretary	person
+RelatedTo	dresser	person
+RelatedTo	author	person
+RelatedTo	person	alone
+RelatedTo	exist	person
+RelatedTo	physician	person
+RelatedTo	kid	person
+RelatedTo	dumb	person
+RelatedTo	cry	person
+RelatedTo	liar	person
+RelatedTo	you	person
+RelatedTo	head	person
+RelatedTo	fisherman	person
+RelatedTo	blind	person
+RelatedTo	ghost	person
+RelatedTo	transformer	person
